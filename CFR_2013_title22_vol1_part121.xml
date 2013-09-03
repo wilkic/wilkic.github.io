@@ -1,0 +1,973 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>22</CFRTITLE>
+    <CFRTITLETEXT>Foreign Relations</CFRTITLETEXT>
+    <VOL>1</VOL>
+    <DATE>2013-04-01</DATE>
+    <ORIGINALDATE>2013-04-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>THE UNITED STATES MUNITIONS LIST</TITLE>
+    <GRANULENUM>121</GRANULENUM>
+    <HEADING>PART 121</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 22" SEQ="2">Foreign Relations</PARENT>
+      <PARENT HEADING="CHAPTER I" SEQ="1">DEPARTMENT OF STATE</PARENT>
+      <PARENT HEADING="SUBCHAPTER M" SEQ="0">INTERNATIONAL TRAFFIC IN ARMS REGULATIONS</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 121</EAR>
+    <HD SOURCE="HED">PART 121—THE UNITED STATES MUNITIONS LIST</HD>
+    <CONTENTS>
+      <SUBJGRP>
+        <HD SOURCE="HED">Enumeration of Articles</HD>
+        <SECHD>Sec.</SECHD>
+        <SECTNO>121.1</SECTNO>
+        <SUBJECT>General. The United States Munitions List.</SUBJECT>
+        <SECTNO>121.2</SECTNO>
+        <SUBJECT>Interpretations of the U.S. Munitions List and the Missile Technology Control Regime Annex.</SUBJECT>
+        <SECTNO>121.3</SECTNO>
+        <SUBJECT>Aircraft and related articles.</SUBJECT>
+        <SECTNO>121.4</SECTNO>
+        <SUBJECT>[Reserved]</SUBJECT>
+        <SECTNO>121.5</SECTNO>
+        <SUBJECT>Apparatus and devices under Category IV(c).</SUBJECT>
+        <SECTNO>121.6-121.7</SECTNO>
+        <SUBJECT>[Reserved]</SUBJECT>
+        <SECTNO>121.8</SECTNO>
+        <SUBJECT>End-items, components, accessories, attachments, parts, firmware, software and systems.</SUBJECT>
+        <SECTNO>121.9</SECTNO>
+        <SUBJECT>[Reserved]</SUBJECT>
+        <SECTNO>121.10</SECTNO>
+        <SUBJECT>Forgings, castings and machined bodies.</SUBJECT>
+        <SECTNO>121.11</SECTNO>
+        <SUBJECT>Military demolition blocks and blasting caps.</SUBJECT>
+        <SECTNO>121.12-121.14</SECTNO>
+        <SUBJECT>[Reserved]</SUBJECT>
+        <SECTNO>121.15</SECTNO>
+        <SUBJECT>Vessels of war and special naval equipment.</SUBJECT>
+        <SECTNO>121.16</SECTNO>
+        <SUBJECT>Missile Technology Control Regime Annex.</SUBJECT>
+      </SUBJGRP>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>Secs. 2, 38, and 71, Pub. L. 90-629, 90 Stat. 744 (22 U.S.C. 2752, 2778, 2797); E.O. 11958, 42 FR 4311; 3 CFR, 1977 Comp. p. 79; 22 U.S.C. 2651a; Pub. L. 105-261, 112 Stat. 1920.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>58 FR 39287, July 22, 1993, unless otherwise noted.</P>
+    </SOURCE>
+    <SUBJGRP>
+      <PRTPAGE P="473"/>
+      <HD SOURCE="HED">Enumeration of Articles</HD>
+      <SECTION>
+        <SECTNO>§ 121.1</SECTNO>
+        <SUBJECT>General. The United States Munitions List.</SUBJECT>
+
+        <P>(a) The following articles, services and related technical data are designated as defense articles and defense services pursuant to §§ 38 and 47(7) of the Arms Export Control Act (22 U.S.C. 2778 and 2794(7)). Changes in designations will be published in the <E T="04">Federal Register.</E> Information and clarifications on whether specific items are defense articles and services under this subchapter may appear periodically through the Internet Web site of the Directorate of Defense Trade Controls.</P>
+        <P>(b) <E T="03">Significant military equipment:</E> An asterisk precedes certain defense articles in the following list. The asterisk means that the article is deemed to be “Significant Military Equipment” to the extent specified in § 120.7 of this subchapter. The asterisk is placed as a convenience to help identify such articles. Note that technical data directly related to the manufacture or production of any defense articles enumerated in any category that are designated as Significant Military Equipment (SME) shall itself be designed SME.</P>
+        <P>(c) <E T="03">Missile Technology Control Regime Annex (MTCR).</E> Certain defense articles and services are identified in § 121.16 as being on the list of MTCR Annex items on the United States Munitions List. These are articles as specified in § 120.29 of this subchapter and appear on the list at § 121.16.
+        </P>
+        <EXTRACT>
+          <HD SOURCE="HD1">Category I—Firearms, Close Assault Weapons and Combat Shotguns</HD>
+          <P>* (a) Nonautomatic and semi-automatic firearms to caliber .50 inclusive (12.7 mm).</P>
+          <P>* (b) Fully automatic firearms to .50 caliber inclusive (12.7 mm).</P>
+          <P>* (c) Firearms or other weapons (e.g. insurgency-counterinsurgency, close assault weapons systems) having a special military application regardless of caliber.</P>
+          <P>* (d) Combat shotguns. This includes any shotgun with a barrel length less than 18 inches.</P>
+          <P>* (e) Silencers, mufflers, sound and flash suppressors for the articles in (a) through (d) of this category and their specifically designed, modified or adapted components and parts.</P>
+          <P>(f) Riflescopes manufactured to military specifications (See category XII(c) for controls on night sighting devices.)</P>
+          <P>* (g) Barrels, cylinders, receivers (frames) or complete breech mechanisms for the articles in paragraphs (a) through (d) of this category.</P>
+          <P>(h) Components, parts, accessories and attachments for the articles in paragraphs (a) through (g) of this category.</P>
+          <P>(i) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (h) of this category. Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.</P>
+          <P>(j) The following interpretations explain and amplify the terms used in this category and throughout this subchapter:</P>
+          <P>(1) A firearm is a weapon not over .50 caliber (12.7 mm) which is designed to expel a projectile by the action of an explosive or which may be readily converted to do so.</P>
+          <P>(2) A rifle is a shoulder firearm which can discharge a bullet through a rifled barrel 16 inches or longer.</P>
+          <P>(3) A carbine is a lightweight shoulder firearm with a barrel under 16 inches in length.</P>
+          <P>(4) A pistol is a hand-operated firearm having a chamber integral with or permanently aligned with the bore.</P>
+          <P>(5) A revolver is a hand-operated firearm with a revolving cylinder containing chambers for individual cartridges.</P>
+          <P>(6) A submachine gun, “machine pistol” or “machine gun” is a firearm originally designed to fire, or capable of being fired, fully automatically by a single pull of the trigger.</P>
+          <NOTE>
+            <HD SOURCE="HED">Note:</HD>
+            <P>This coverage by the U.S. Munitions List in paragraphs (a) through (i) of this category excludes any non-combat shotgun with a barrel length of 18 inches or longer, BB, pellet, and muzzle loading (black powder) firearms. This category does not cover riflescopes and sighting devices that are not manufactured to military specifications. It also excludes accessories and attachments (e.g., belts, slings, after market rubber grips, cleaning kits) for firearms that do not enhance the usefulness, effectiveness, or capabilities of the firearm, components and parts. The Department of Commerce regulates the export of such items. See the Export Administration Regulations (15 CFR parts 730-799). In addition, license exemptions for the items in this category are available in various parts of this subchapter (e.g. §§ 123.17, 123.18 and 125.4).</P>
+          </NOTE>
+          <HD SOURCE="HD1">Category II—Guns and Armament</HD>
+          <P>* (a) Guns over caliber .50 (12.7mm, whether towed, airborne, self-propelled, or fixed, including but not limited to, howitzers, mortars, cannons and recoilless rifles.</P>
+
+          <P>(b) Flame throwers specifically designed or modified for military application.<PRTPAGE P="474"/>
+          </P>
+          <P>(c) Apparatus and devices for launching or delivering ordnance, other than those articles controlled in Category IV.</P>
+          <P>* (d) Kinetic energy weapon systems specifically designed or modified for destruction or rendering mission-abort of a target.</P>
+          <P>(e) Signature control materials (e.g., parasitic, structural, coatings, screening) techniques, and equipment specifically designed, developed, configured, adapted or modified to alter or reduce the signature (e.g., muzzle flash suppression, radar, infrared, visual, laser/electro-optical, acoustic) of defense articles controlled by this category.</P>
+          <P>* (f) Engines specifically designed or modified for the self-propelled guns and howitzers in paragraph (a) of this category.</P>
+          <P>(g) Tooling and equipment specifically designed or modified for the production of defense articles controlled by this category.</P>
+          <P>(h) Test and evaluation equipment and test models specifically designed or modified for the articles controlled by this category. This includes but is not limited to diagnostic instrumentation and physical test models.</P>
+          <P>(i) Autoloading systems for electronic programming of projectile function for the defense articles controlled in this Category.</P>
+          <P>(j) All other components, parts, accessories, attachments and associated equipment specifically designed or modified for the articles in paragraphs (a) through (i) of this category. This includes but is not limited to mounts and carriages for the articles controlled in this category.</P>
+          <P>(k) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (j) of this category. Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.</P>
+          <P>(l) The following interpretations explain and amplify the terms used in this category and elsewhere in this subchapter:</P>
+          <P>(1) The kinetic energy weapons systems in paragraph (d) of this category include but are not limited to:</P>
+          <P>(i) Launch systems and subsystems capable of accelerating masses larger than 0.1g to velocities in excess of 1.6km/s, in single or rapid fire modes, using methods such as: electromagnetic, electrothermal, plasma, light gas, or chemical;</P>
+          <P>(ii) Prime power generation, electric armor, energy storage, thermal management; conditioning, switching or fuel-handling equipment; and the electrical interfaces between power supply gun and other turret electric drive function;</P>
+          <P>(iii) Target acquisition, tracking fire control or damage assessment systems; and</P>
+          <P>(iv) Homing seeker, guidance or divert propulsion (lateral acceleration) systems for projectiles.</P>
+          <P>(2) The articles in this category include any end item, component, accessory, attachment part, firmware, software or system that has been designed or manufactured using technical data and defense services controlled by this category.</P>
+          <P>(3) The articles specifically designed or modified for military application controlled in this category include any article specifically developed, configured, or adapted for military application.</P>
+          <HD SOURCE="HD1">Category III—Ammunition/Ordnance</HD>
+          <P>* (a) Ammunition/ordnance for the articles in Categories I and II of this section.</P>
+          <P>(b) Ammunition/ordnance handling equipment specifically designed or modified for the articles controlled in this category, such as, belting, linking, and de-linking equipment.</P>
+          <P>(c) Equipment and tooling specifically designed or modified for the production of defense articles controlled by this category.</P>
+          <P>(d) Components, parts, accessories, attachments and associated equipment specifically designed or modified for the articles in this category:</P>
+          <P>* (1) Guidance and control components for the articles in paragraph (a) of this category;</P>
+          <P>* (2) Safing, arming and fuzing components (including target detection and localization devices) for the articles in paragraph (a) of this category; and</P>
+          <P>(3) All other components, parts, accessories, attachments and associated equipment for the articles in paragraphs (a) through (c) of this category.</P>
+          <P>(e) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (d) of this category. Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.</P>
+          <P>(f) The following explains and amplifies the terms used in this category and elsewhere in this subchapter:</P>
+          <P>(1) The components, parts, accessories and attachments controlled in this category include, but are not limited to cartridge cases, powder bags (or other propellant charges), bullets, jackets, cores, shells (excluding shotgun shells), projectiles (including canister rounds and submunitions therefor), boosters, firing components therefor, primers, and other detonating devices for the defense articles controlled in this category.</P>
+
+          <P>(2) This category does not control cartridge and shell casings that, prior to export, have been rendered useless beyond the possibility of restoration for use as a cartridge or <PRTPAGE P="475"/>shell casing by means of heating, flame treatment, mangling, crushing, cutting or popping.</P>
+          <P>(3) Equipment and tooling in paragraph (c) of this category does not include equipment for hand-loading ammunition.</P>
+          <P>(4) The articles in this category include any end item, component, accessory, attachment, part, firmware, software, or system that has been designed or manufactured using technical data and defense services controlled by this category.</P>
+          <P>(5) The articles specifically designed or modified for military application controlled in this category include any article specifically developed, configured, or adapted for military application</P>
+          <HD SOURCE="HD1">Category IV—Launch Vehicles, Guided Missiles, Ballistic Missiles, Rockets, Torpedoes, Bombs and Mines</HD>
+          <P>* (a) Rockets (including but not limited to meteorological and other sounding rockets), bombs, grenades, torpedoes, depth charges, land and naval mines, as well as launchers for such defense articles, and demolition blocks and blasting caps. (See § 121.11.)</P>
+          <P>* (b) Launch vehicles and missile and anti-missile systems including but not limited to guided, tactical and strategic missiles, launchers, and systems.</P>
+          <P>(c) Apparatus, devices, and materials for the handling, control, activation, monitoring, detection, protection, discharge, or detonation of the articles in paragraphs (a) and (b) of this category. (See § 121.5.)</P>
+          <P>* (d) Missile and space launch vehicle powerplants.</P>
+          <P>* (e) Military explosive excavating devices.</P>
+          <P>* (f) Ablative materials fabricated or semi-fabricated from advanced composites (e.g., silica, graphite, carbon, carbon/carbon, and boron filaments) for the articles in this category that are derived directly from or specifically developed or modified for defense articles.</P>
+          <P>* (g) Non/nuclear warheads for rockets and guided missiles.</P>
+          <P>(h) All specifically designed or modified components, parts, accessories, attachments, and associated equipment for the articles in this category.</P>
+          <P>(i) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (h) of this category. (See § 125.4 of this subchapter for exemptions.) Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.</P>
+          <HD SOURCE="HD1">Category V—Explosives and Energetic Materials, Propellants, Incendiary Agents and Their Constituents</HD>
+          <P>* (a) Explosives, and mixtures thereof:</P>
+          <P>(1) ADNBF (aminodinitrobenzofuroxan or 7-Amino 4,6-dinitrobenzofurazane-1-oxide) (CAS 97096-78-1);</P>
+          <P>(2) BNCP (cis-bis (5-nitrotetrazolato) tetra amine-cobalt (III) perchlorate) (CAS 117412-28-9);</P>
+          <P>(3) CL-14 (diamino dinitrobenzofuroxan or 5,7-diamino-4,6-dinitrobenzofurazane-1-oxide) (CAS 117907-74-1);</P>
+          <P>(4) CL-20 (HNIW or Hexanitrohexaazaisowurtzitane); (CAS 135285-90-4); chlathrates of CL-20 (see paragraphs (g)(3) and (4) of this category);</P>
+          <P>(5) CP (2-(5-cyanotetrazolato) penta aminecobalt (III) perchlorate); (CAS 70247-32-4);</P>
+          <P>(6) DADE (1,1-diamino-2,2-dinitroethylene, FOX7);</P>
+          <P>(7) DDFP (1,4-dinitrodifurazanopiperazine);</P>
+          <P>(8) DDPO (2,6-diamino-3,5-dinitropyrazine-1-oxide, PZO); (CAS 194486-77-6);</P>
+          <P>(9) DIPAM (3,3′-Diamino-2,2′,4,4′,6,6′-hexanitrobiphenyl or dipicramide) (CAS 17215-44-0);</P>
+          <P>(10) DNGU (DINGU or dinitroglycoluril) (CAS 55510-04-8);</P>
+          <P>(11) Furazans, as follows:</P>
+          <P>(i) DAAOF (diaminoazoxyfurazan);</P>
+          <P>(ii) DAAzF (diaminoazofurazan) (CAS 78644-90-3);</P>
+          <P>(12) HMX and derivatives (see paragraph (g)(5) of this category):</P>
+          <P>(i) HMX (Cyclotetramethylenetetranitramine; octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazine; 1,3,5,7-tetranitro-1,3,5,7-tetraza-cyclooctane; octogen, octogene) (CAS 2691-41-0);</P>
+          <P>(ii) Diflouroaminated analogs of HMX;</P>
+          <P>(iii) K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabicyclo [3,3,0]-octanone-3, tetranitrosemiglycouril, or keto-bicyclic HMX) (CAS 130256-72-3);</P>
+          <P>(13) HNAD (hexanitroadamantane) (CAS 143850-71-9);</P>
+          <P>(14) HNS (hexanitrostilbene) (CAS 20062-22-0);</P>
+          <P>(15) Imidazoles, as follows:</P>
+          <P>(i) BNNII (Octohydro-2,5-bis(nitroimino) imidazo [4,5-d]Imidazole);</P>
+          <P>(ii) DNI (2,4-dinitroimidazole) (CAS 5213-49-0);</P>
+          <P>(iii) FDIA (1-fluoro-2,4-dinitroimidazole);</P>
+          <P>(iv) NTDNIA (N-(2-nitrotriazolo)-2,4-dinitro-imidazole);</P>
+          <P>(v) PTIA (1-picryl-2,4,5-trinitroimidazole);</P>
+          <P>(16) NTNMH (1-(2-nitrotriazolo)-2-dinitromethylene hydrazine);</P>
+          <P>(17) NTO (ONTA or 3-nitro-1,2,4-triazol-5-one) (CAS 932-64-9);</P>
+          <P>(18) Polynitrocubanes with more than four nitro groups;</P>
+
+          <P>(19) PYX (2,6-Bis(picrylamino)-3,5-dinitropyridine) (CAS 38082-89-2);<PRTPAGE P="476"/>
+          </P>
+          <P>(20) RDX and derivatives:</P>
+          <P>(i) RDX (cyclotrimethylenetrinitramine), cyclonite, T4, hexahydro-1,3,5-trinitro-1,3,5-triazine, 1,3,5-trinitro-1,3,5-triaza-cyclohexane, hexogen, or hexogene) (CAS 121-82-4);</P>
+          <P>(ii) Keto-RDX (K-6 or 2,4,6-trinitro-2,4,6-triazacyclohexanone (CAS 115029-35-1);</P>
+          <P>(21) TAGN (Triaminoguanidinenitrate) (CAS 4000-16-2);</P>
+          <P>(22) TATB (Triaminotrinitrobenzene) (CAS 3058-38-6) (see paragraph (g)(7) of this category);</P>
+          <P>(23) TEDDZ (3,3,7,7-tetrabis(difluoroamine) octahydro-1,5-dinitro-1,5-diazocine;</P>
+          <P>(24) Tetrazoles, as follows:</P>
+          <P>(i) NTAT (nitrotriazol aminotetrazole);</P>
+          <P>(ii) NTNT (1-N-(2-nitrotriazolo)-4-nitrotetrazole);</P>
+          <P>(25) Tetryl (trinitrophenylmethylnitramine) (CAS 479-45-8);</P>
+          <P>(26) TNAD (1,4,5,8-tetranitro-1,4,5,8-tetraazadecalin) (CAS 135877-16-6)(see paragraph (g)(6) of this category);</P>
+          <P>(27) TNAZ (1,1,3-trinitroazetidine) (CAS 97645-24-4) (see paragraph (g)(2) of this category);</P>
+          <P>(28) TNGU (SORGUYL or tetranitroglycoluril) (CAS 55510-03-7);</P>
+          <P>(29) TNP (1,4,5,8-tetranitro-pyridazino [4,5-d] pyridazine) (CAS 229176-04-9);</P>
+          <P>(30) Triazines, as follows:</P>
+          <P>(i) DNAM (2-oxy-4,6-dinitroamino-s-triazine) (CAS 19899-80-0);</P>
+          <P>(ii) NNHT (2-nitroimino-5-nitro-hexahydro-1,3,5 triazine) (CAS 130400-13-4);</P>
+          <P>(31) Triazoles, as follows:</P>
+          <P>(i) 5-azido-2-nitrotriazole;</P>
+          <P>(ii) ADHTDN (4-amino-3,5-dihydrazino-1,2,4-triazole dinitramide)(CAS 1614-08-0);</P>
+          <P>(iii) ADNT (1-amino-3,5-dinitro-1,2,4-triazole);</P>
+          <P>(iv) BDNTA ([Bis-dinitrotriazole]amine);</P>
+          <P>(v) DBT (3,3′-dinitro-5,5-bi-1,2,4-triazole) (CAS 30003-46-4);</P>
+          <P>(vi) DNBT (dinitrobistriazole) (CAS 70890-46-9);</P>
+          <P>(vii) NTDNA (2-nitrotriazole 5-dinitramide) (CAS 75393-84-9);</P>
+          <P>(viii) NTDNT (1-N-(2-nitrotriazolo) 3,5-dinitro-triazole);</P>
+          <P>(ix) PDNT (1-picryl-3,5-dinitrotriazole);</P>
+          <P>(x) TACOT (tetranitrobenzotriazolobenzotriazole) (CAS 25243-36-1);</P>
+          <P>(32) Any explosive not listed elsewhere in paragraph (a) of this category with a detonation velocity exceeding 8,700m/s at maximum density or a detonation pressure exceeding 34 Gpa (340 kbar).</P>
+          <P>(33) Other organic explosives not listed elsewhere in paragraph (a) of this category yielding detonation pressures of 25 Gpa (250 kbar) or more that will remain stable at temperatures of 523K (250 °C) or higher for periods of 5 minutes or longer;</P>
+          <P>(34) Diaminotrinitrobenzene (DATB) (CAS 1630-08-6);</P>
+          <P>(35) Any other explosive not elsewhere identified in this category specifically designed, modified, adapted, or configured (e.g., formulated) for military application.</P>
+          <P>* (b) Propellants:</P>
+          <P>(1) Any United Nations (UN) Class 1.1 solid propellant with a theoretical specific impulse (under standard conditions) of more than 250 seconds for non-metallized, or 270 seconds for metallized compositions;</P>
+          <P>(2) Any UN Class 1.3 solid propellant with a theoretical specific impulse (under standard conditions) of more than 230 seconds for non-halogenized, or 250 seconds for non-metallized compositions;</P>
+          <P>(3) Propellants having a force constant of more than 1,200 kJ/Kg;</P>
+          <P>(4) Propellants that can sustain a steady-state burning rate more than 38mm/s under standard conditions (as measured in the form of an inhibited single strand) of 6.89 Mpa (68.9 bar) pressure and 294K (21 °C);</P>
+          <P>(5) Elastomer modified cast double based propellants with extensibility at maximum stress greater than 5% at 233 K (−40 C);</P>
+          <P>(6) Any propellant containing substances listed in Category V;</P>
+          <P>(7) Any other propellant not elsewhere identified in this category specifically designed, modified, adapted, or configured (e.g., formulated) for military application.</P>
+          <P>(c) Pyrotechnics, fuels and related substances, and mixtures thereof:</P>
+          <P>(1) Alane (aluminum hydride)(CAS 7784-21-6);</P>
+          <P>(2) Carboranes; decaborane (CAS 17702-41-9); pentaborane and derivatives thereof;</P>
+          <P>(3) Hydrazine and derivatives:</P>
+          <P>(i) Hydrazine (CAS 302-01-2) in concentrations of 70% or more (not hydrazine mixtures specially formulated for corrosion control);</P>
+          <P>(ii) Monomethyl hydrazine (CAS 60-34-4);</P>
+          <P>(iii) Symmetrical dimethyl hydrazine (CAS 540-73-8);</P>
+          <P>(iv) Unsymmetrical dimethyl hydrazine (CAS 57-14-7);</P>
+          <P>(4) Liquid fuels specifically formulated for use by articles covered by Categories IV, VI, and VIII;</P>
+          <P>(5) Spherical aluminum powder (CAS 7429-90-5) in particle sizes of 60 micrometers or less manufactured from material with an aluminum content of 99% or more;</P>
+          <P>(6) Metal fuels in particle form whether spherical, atomized, spheroidal, flaked or ground, manufactured from material consisting of 99% or more of any of the following:</P>
+          <P>(i) Metals and mixtures thereof:</P>
+          <P>(A) Beryllium (CAS 7440-41-7) in particle sizes of less than 60 micrometers;</P>
+
+          <P>(B) Iron powder (CAS 7439-89-6) with particle size of 3 micrometers or less produced by reduction of iron oxide with hydrogen;<PRTPAGE P="477"/>
+          </P>
+          <P>(ii) Mixtures, which contain any of the following:</P>
+          <P>(A) Boron (CAS 7440-42-8) or boron carbide (CAS 12069-32-8) fuels of 85% purity or higher and particle sizes of less than 60 micrometers;</P>
+          <P>(B) Zirconium (CAS 7440-67-7), magnesium (CAS 7439-95-4) or alloys of these in particle sizes of less than 60 micrometers;</P>
+          <P>(iii) Explosives and fuels containing the metals or alloys listed in paragraphs (c)(6)(i) and (c)(6)(ii) of this category whether or not the metals or alloys are encapsulated in aluminum, magnesium, zirconium, or beryllium;</P>
+          <P>(7) Pyrotechnics and pyrophoric materials specifically formulated for military purposes to enhance or control the production of radiated energy in any part of the IR spectrum.</P>
+          <P>(8) Titanium subhydride (TiHn) of stoichiometry equivalent to n = 0.65-1.68;</P>
+          <P>(9) Military materials containing thickeners for hydrocarbon fuels specially formulated for use in flame throwers or incendiary munitions; metal stearates or palmates (also known as octol); and M1, M2 and M3 thickeners;</P>
+          <P>(10) Any other pyrotechnic, fuel and related substance and mixture thereof not elsewhere identified in this category specifically designed, modified, adapted, or configured (e.g., formulated) for military application.</P>
+          <P>(d) Oxidizers, to include:</P>
+          <P>(1) ADN (ammonium dinitramide or SR-12) (CAS 140456-78-6);</P>
+          <P>(2) AP (ammonium perchlorate) (CAS 7790-98-9);</P>
+          <P>(3) BDNPN (bis,2,2-dinitropropylnitrate) (CAS 28464-24-6);</P>
+          <P>(4) DNAD (1,3-dinitro-1,3-diazetidine) (CAS 78246-06-7);</P>
+          <P>(5) HAN (Hydroxylammonium nitrate) (CAS 13465-08-2);</P>
+          <P>(6) HAP (hydroxylammonium perchlorate) (CAS 15588-62-2);</P>
+          <P>(7) HNF (Hydrazinium nitroformate) (CAS 20773-28-8);</P>
+          <P>(8) Hydrazine nitrate (CAS 37836-27-4);</P>
+          <P>(9) Hydrazine perchlorate (CAS 27978-54-7);</P>
+          <P>(10) Liquid oxidizers comprised of or containing inhibited red fuming nitric acid (IRFNA) (CAS 8007-58-7) or oxygen difluoride;</P>
+          <P>(11) Perchlorates, chlorates, and chromates composited with powdered metal or other high energy fuel components controlled by this category;</P>
+          <P>(12) Any other oxidizer not elsewhere identified in this category specifically designed, modified, adapted, or configured (e.g., formulated) for military application.</P>
+          <P>* (e) Binders, and mixtures thereof:</P>
+          <P>(1) AMMO (azidomethylmethyloxetane and its polymers) (CAS 90683-29-7) (see paragraph (g)(1) of this category);</P>
+          <P>(2) BAMO (bisazidomethyloxetane and its polymers) (CAS 17607-20-4) (see paragraph (g)(1)of this category);</P>
+          <P>(3) BTTN (butanetrioltrinitrate) (CAS 6659-60-5) (see paragraph (g)(8) of this category);</P>
+          <P>(4) FAMAO (3-difluoroaminomethyl-3-azidomethyl oxetane) and its polymers;</P>
+          <P>(5) FEFO (bis-(2-fluoro-2,2-dinitroethyl)formal) (CAS 17003-79-1);</P>
+          <P>(6) GAP (glycidylazide polymer) (CAS 143178-24-9) and its derivatives;</P>
+          <P>(7) HTPB (hydroxyl terminated polybutadiene) with a hydroxyl functionality equal to or greater than 2.2 and less than or equal to 2.4, a hydroxyl value of less than 0.77 meq/g, and a viscosity at 30 °C of less than 47 poise (CAS 69102-90-5);</P>
+          <P>(8) NENAS (nitratoethylnitramine compounds) (CAS 17096-47-8, 85068-73-1 and 82486-82-6);</P>
+          <P>(9) Poly-NIMMO (poly nitratomethylmethyoxetane, poly-NMMO, (poly[3-nitratomethyl-3-methyl oxetane]) (CAS 84051-81-0);</P>
+          <P>(10) Energetic monomers, plasticizers and polymers containing nitro, azido nitrate, nitraza or difluoromaino groups specially formulated for military use;</P>
+          <P>(11) TVOPA 1,2,3-Tris [1,2-bis(difluoroamino) ethoxy]propane; tris vinoxy propane adduct; (CAS 53159-39-0);</P>
+          <P>(12) Polynitrorthocarbonates;</P>
+          <P>(13) FPF-1 (poly-2,2,3,3,4,4-hexafluoro pentane-1,5-diolformal) (CAS 376-90-9);</P>
+          <P>(14) FPF-3 (poly-2,4,4,5,5,6,6-heptafluoro-2-trifluoromethyl-3-oxaheptane-1,7-diolformal);</P>
+          <P>(15) PGN (Polyglycidylnitrate or poly(nitratomethyl oxirane); poly-GLYN); (CAS 27814-48-8);</P>
+          <P>(16) N-methyl-p-nitroaniline;</P>
+          <P>(17) Low (less than 10,000) molecular weight, alcohol-functionalized, poly(epichlorohydrin); poly(epichlorohydrindiol); and triol;</P>
+          <P>(18) Bis(2,2-dinitropropyl) formal and acetal;</P>
+          <P>(19) Any other binder and mixture thereof not elsewhere identified in this category specifically designed, modified, adapted, or configured (e.g., formulated) for military application.</P>
+          <P>(f) Additives:</P>
+          <P>(1) Basic copper salicylate (CAS 62320-94-9);</P>
+          <P>(2) BHEGA (Bis-(2-hydroxyethyl)glycolamide) (CAS 17409-41-5);</P>
+          <P>(3) Ferrocene Derivatives:</P>
+          <P>(i) Butacene (CAS 125856-62-4);</P>
+          <P>(ii) Catocene (2,2-Bis-ethylferrocenyl propane) (CAS 37206-42-1);</P>
+          <P>(iii) Ferrocene carboxylic acids;</P>
+          <P>(iv) n-butyl-ferrocene (CAS 31904-29-7);</P>
+          <P>(4) Lead beta-resorcylate (CAS 20936-32-7);</P>
+          <P>(5) Lead citrate (CAS 14450-60-3);</P>
+          <P>(6) Lead-copper chelates of beta-resorcylate or salicylates (CAS 68411-07-4);</P>
+          <P>(7) Lead maleate (CAS 19136-34-6);<PRTPAGE P="478"/>
+          </P>
+          <P>(8) Lead salicylate (CAS 15748-73-9);</P>
+          <P>(9) Lead stannate (CAS 12036-31-6);</P>
+          <P>(10) MAPO (tris-1-(2-methyl)aziridinyl phosphine oxide) (CAS 57-39-6); BOBBA-8 (bis(2-methyl aziridinyl) 2-(2-hydroxypropanoxy) propylamino phosphine oxide); and other MAPO derivatives;</P>
+          <P>(11) Methyl BAPO (Bis(2-methyl aziridinyl) methylamino phosphine oxide) (CAS 85068-72-0);</P>
+          <P>(12) 3-Nitraza-1,5 pentane diisocyanate (CAS 7406-61-9);</P>
+          <P>(13) Organo-metallic coupling agents, specifically:</P>
+          <P>(i) Neopentyl[diallyl]oxy, tri [dioctyl] phosphatotitanate (CAS 103850-22-2); also known as titanium IV, 2,2[bis 2-propenolato-methyl, butanolato, tris (dioctyl) phosphato] (CAS 110438-25-0), or LICA 12 (CAS 103850-22-2);</P>
+          <P>(ii) Titanium IV, [(2-propenolato-1) methyl, n-propanolatomethyl] butanolato-1, tris(dioctyl)pyrophosphate, or KR3538;</P>
+          <P>(iii) Titanium IV, [2-propenolato-1)methyl, propanolatomethyl] butanolato-1, tris(dioctyl) phosphate;</P>
+          <P>(14) Polyfunctional aziridine amides with isophthalic, trimesic (BITA or butylene imine trimesamide), isocyanuric, or trimethyladipic backbone structures and 2-methyl or 2-ethyl substitutions on the aziridine ring and its polymers;</P>
+          <P>(15) Superfine iron oxide (Fe<E T="52">2</E>O<E T="52">3</E> hematite) with a specific surface area more than 250 m<SU>2</SU>/g and an average particle size of 0.003 [micro]m or less (CAS 1309-37-1);</P>
+          <P>(16) TEPAN (tetraethylenepentaamineacrylonitrile) (CAS 68412-45-3); cyanoethylated polyamines and their salts;</P>
+          <P>(17) TEPANOL (Tetraethylenepentaamineacrylo-nitrileglycidol) (CAS 110445-33-5); cyanoethylated polyamines adducted with glycidol and their salts;</P>
+          <P>(18) TPB (triphenyl bismuth) (CAS 603-33-8);</P>
+          <P>(19) PCDE (Polycyanodifluoroaminoethyleneoxide);</P>
+          <P>(20) BNO (Butadienenitrileoxide);</P>
+          <P>(21) Any other additive not elsewhere identified in this category specifically designed, modified, adapted, or configured (e.g., formulated) for military application.</P>
+          <P>(g) Precursors, as follows:</P>
+          <P>(1) BCMO (bischloromethyloxetane) (CAS 142173-26-0) (see paragraphs (e)(1) and (2) of this category);</P>
+          <P>(2) Dinitroazetidine-t-butyl salt (CAS 125735-38-8) (see paragraph (a)(27) of this category);</P>
+          <P>(3) HBIW (hexabenzylhexaazaisowurtzitane) (CAS 124782-15-6) (see paragraph (a)(4) of this category);</P>
+          <P>(4) TAIW (tetraacetyldibenzylhexa-azaisowurtzitane) (see paragraph (a)(4) of this category);</P>
+          <P>(5) TAT (1, 3, 5, 7-tetraacetyl-1, 3, 5, 7-tetraaza-cyclooctane) (CAS 41378-98-7) (see paragraph (a)(12) of this category);</P>
+          <P>(6) Tetraazadecalin (CAS 5409-42-7) (see paragraph (a)(26) of this category);</P>
+          <P>(7) 1,3,5-trichorobenzene (CAS 108-70-3) (see paragraph (a)(22) of this category);</P>
+          <P>(8) 1,2,4-trihydroxybutane (1,2,4-butanetriol) (CAS 3068-00-6) (see paragraph (e)(3) of this category);</P>
+          <P>(h) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles numerated in paragraphs (a) through (g) of this category. (See § 125.4 of this subchapter for exemptions.) Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.</P>
+          <P>(i) The following interpretations explain and amplify the terms used in this category and elsewhere in this subchapter.</P>
+          <P>(1) Category V contains explosives, energetic materials, propellants and pyrotechnics and specially formulated fuels for aircraft, missile and naval applications. Explosives are solid, liquid or gaseous substances or mixtures of substances, which, in their primary, booster or main charges in warheads, demolition or other military applications, are required to detonate.</P>
+          <P>(2) Paragraph (c)(6)(ii)(A) of this category does not control boron and boron carbide enriched with boron-10 (20% or more of total boron-10 content.</P>
+
+          <P>(3) The resulting product of the combination of any controlled or non-controlled substance compounded or mixed with any item controlled by this subchapter is also subject to the controls of this category.
+          </P>
+          <NOTE>
+            <HD SOURCE="HED">Note 1:</HD>
+            <P>To assist the exporter, an item has been categorized by the most common use. Also, a reference has been provided to the related controlled precursors (e.g., see paragraph (a)(12) of this category). Regardless of where the item has been placed in the category, all exports are subject to the controls of this subchapter.</P>
+          </NOTE>
+          <NOTE>
+            <HD SOURCE="HED">Note 2:</HD>
+            <P>Chemical Abstract Service (CAS) registry numbers do not cover all the substances and mixtures controlled by this category. The numbers are provided as examples to assist the government agencies in the license review process and the exporter when completing their license application and export documentation.</P>
+          </NOTE>
+          <PRTPAGE P="479"/>
+          <HD SOURCE="HD1">Category VI—Vessels of War and Special Naval Equipment.</HD>
+          <P>* (a) Warships, amphibious warfare vessels, landing craft, mine warfare vessels, patrol vessels and any vessels specifically designed or modified for military purposes. (See § 121.15.)</P>
+          <P>(b) Patrol craft without armor, armament or mounting surfaces for weapon systems more significant than .50 caliber machine guns or equivalent and auxiliary vessels. (See § 121.15.)</P>
+          <P>* (c) Turrets and gun mounts, arresting gear, special weapons systems, protective systems, submarine storage batteries, catapults, mine sweeping equipment (including mine countermeasures equipment deployed by aircraft) and other significant naval systems specifically designed or modified for combatant vessels.</P>
+          <P>(d) Harbor entrance detection devices (magnetic, pressure, and acoustic) and controls therefor.</P>
+          <P>* (e) Naval nuclear propulsion plants, their land prototypes, and special facilities for their construction, support, and maintenance. This includes any machinery, device, component, or equipment specifically developed, designed or modified for use in such plants or facilities. (See § 123.20)</P>
+          <P>(f) All specifically designed or modified components, parts, accessories, attachments, and associated equipment for the articles in paragraphs (a) through (e) of this category.</P>
+          <P>(g) Technical data (as defined in § 120.10) and defense services (as defined in § 120.9) directly related to the defense articles enumerated in paragraphs (a) through (f) of this category. (See § 125.4 for exemptions.) Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.</P>
+          <HD SOURCE="HD1">Category VII—Tanks and Military Vehicles</HD>
+          <P>* (a) Military type armed or armored vehicles, military railway trains, and vehicles specifically designed or modified to accommodate mountings for arms or other specialized military equipment or fitted with such items.</P>
+          <P>* (b) Military tanks, combat engineer vehicles, bridge launching vehicles, half-tracks and gun carriers.</P>
+          <P>(c) Military trucks, trailers, hoists, and skids specifically designed, modified, or equipped to mount or carry weapons of Categories I, II and IV of this section or for carrying and handling the articles in paragraph (a) of Categories III and IV of this section.</P>
+          <P>* (d) Military recovery vehicles.</P>
+          <P>* (e) Amphibious vehicles.</P>
+          <P>* (f) Engines specifically designed or modified for the vehicles in paragraphs (a), (b), and (e) of this category.</P>
+          <P>(g) All specifically designed or modified components, parts, accessories, attachments, and associated equipment for the articles in this category, including but not limited to military bridges and deep water fording kits.</P>
+          <P>(h) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (g) of this category. Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.</P>
+          <P>(i) The following explains and amplifies the terms used in this category and elsewhere in this subchapter.</P>
+          <P>(1) An amphibious vehicle in paragraph (e) of this category is an automotive vehicle or chassis which embodies all-wheel drive, is equipped to meet special military requirements, and which has sealed electrical system or adaptation features for deep water fording.</P>
+          <P>(2) The articles in this category include any end item, component, accessory, attachment part, firmware, software or system that has been designed or manufactured using technical data and defense service controlled by this category.</P>
+          <HD SOURCE="HD1">Category VIII—Aircraft and Associated Equipment</HD>
+          <P>* (a) Aircraft, including but not limited to helicopters, non-expansive balloons, drones, and lighter-than-air aircraft, which are specifically designed, modified, or equipped for military purposes. This includes but is not limited to the following military purposes: Gunnery, bombing, rocket or missile launching, electronic and other surveillance, reconnaissance, refueling, aerial mapping, military liaison, cargo carrying or dropping, personnel dropping, airborne warning and control, and military training. (See § 121.3.)</P>
+
+          <P>* (b) Military aircraft engines, except reciprocating engines, specifically designed or modified for the aircraft in paragraph (a) of this category, and all specifically designed military hot section components (<E T="03">i.e.</E>, combustion chambers and liners; high pressure turbine blades, vanes, disks and related cooled structure; cooled low pressure turbine blades, vanes, disks and related cooled structure; cooled augmenters; and cooled nozzles) and digital engine controls (e.g., Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)). However, if such military hot section components and digital engine controls are manufactured to engineering drawings dated on or before January 1, 1970, with no subsequent changes or revisions to such <PRTPAGE P="480"/>drawings, they are controlled under Category VIII(h).</P>
+          <P>* (c) Cartridge-actuated devices utilized in emergency escape of personnel and airborne equipment (including but not limited to airborne refueling equipment) specifically designed or modified for use with the aircraft and engines of the types in paragraphs (a) and (b) of this category.</P>
+          <P>(d) Launching and recovery equipment for the articles in paragraph (a) of this category, if the equipment is specifically designed or modified for military use. Fixed land-based arresting gear is not included in this category.</P>
+          <P>* (e) Inertial navigation systems, aided or hybrid inertial navigation systems, Inertial Measurement Units (IMUs), and Attitude and Heading Reference Systems (AHRS) specifically designed, modified, or configured for military use and all specifically designed components, parts and accessories. For other inertial reference systems and related components refer to Category XII(d).</P>
+          <NOTE>
+            <HD SOURCE="HED">Note:</HD>
+            <P>(1) Category XII(d) or Category VIII(e) does not include quartz rate sensors if such items:</P>
+            <P>(i) Are integrated into and included as an integral part of a commercial primary or commercial standby instrument system for use on civil aircraft prior to export or exported solely for integration into such a commercial primary or standby instrument system, and</P>
+            <P>(ii) When the exporter has been informed in writing by the Department of State that a specific quartz rate sensor integrated into a commercial primary or standby instrument system has been determined to be subject to the licensing jurisdiction of the Department of Commerce in accordance with this section.</P>
+            <P>(2) For controls in these circumstances, see the Commerce Control List. In all other circumstances, quartz rate sensors remain under the licensing jurisdiction of the Department of State under Category XII(d) or Category VIII(e) of the U.S. Munitions List and subject to the controls of the ITAR.</P>
+          </NOTE>
+
+          <P>(f) Developmental aircraft, engines, and components thereof specifically designed, modified, or equipped for military uses or purposes, or developed principally with U.S. Department of Defense funding, excluding such aircraft, engines, and components subject to the jurisdiction of the Department of Commerce.
+          </P>
+          <NOTE>
+            <HD SOURCE="HED">Note:</HD>
+            <P>Developmental aircraft, engines, and components thereof, having no commercial application at the time of this amendment and which have been specifically designed for military uses or purposes, or developed principally with U.S. Department of Defense funding, will be considered eligible for a CCL license when actually applied to a commercial aircraft or commercial aircraft engine program. Exporters may seek to establish commercial application either on a case-by-case basis through submission of documentation demonstrating application to a commercial program in requesting an export license application from Commerce in respect of a specific export or, in the case of use for broad categories of aircraft, engines, or components, a commodity jurisdiction from State.</P>
+          </NOTE>
+          
+          <P>* (g) Ground effect machines (GEMS) specifically designed or modified for military use, including but not limited to surface effect machines and other air cushion vehicles, and all components, parts, and accessories, attachments, and associated equipment specifically designed or modified for use with such machines.</P>
+          <P>(h) Components, parts, accessories, attachments, and associated equipment (including ground support equipment) specifically designed or modified for the articles in paragraphs (a) through (d) of this category, excluding aircraft tires and propellers used with reciprocating engines.</P>
+          <NOTE>
+            <HD SOURCE="HED">Note:</HD>
+
+            <P>The Export Administration Regulations (EAR) administered by the Department of Commerce control any component, part, accessory, attachment, and associated equipment (including propellers) designed exclusively for civil, non-military aircraft (see § 121.3 of this subchapter for the definition of military aircraft) and control any component, part, accessory, attachment, and associated equipment designed exclusively for civil, non-military aircraft engines. The International Traffic in Arms Regulations administered by the Department of State control any component, part, accessory, attachment, and associated equipment designed, developed, configured, adapted or modified for military aircraft, and control any component, part, accessory, attachment, and associated equipment designed, developed, configured, adapted or modified for military aircraft engines. For components and parts that do not meet the above criteria, including those that may be used on either civil or military aircraft, the following requirements apply. A non-SME component or part (as defined in §§ 121.8(b) and (d) of this subchapter) that is not controlled under another category of the USML, that: (a) Is standard equipment; (b) is covered by a civil aircraft type certificate (including amended type certificates and supplemental type certificates) issued by the Federal Aviation Administration for a civil, non-military aircraft (this expressly excludes military aircraft certified as restricted and any type certification of Military Commercial Derivative Aircraft); and (c) is an integral part of such civil aircraft, is subject to the jurisdiction of the EAR. In the case of any part or component designated as SME in this or any other USML category, a determination that such <PRTPAGE P="481"/>item may be excluded from USML coverage based on the three criteria above always requires a commodity jurisdiction determination by the Department of State under § 120.4 of this subchapter. The only exception to this requirement is where a part or component designated as SME in this category was integral to civil aircraft prior to August 14, 2008. For such part or component, U.S. exporters are not required to seek a commodity jurisdiction determination from State, unless doubt exists as to whether the item meets the three criteria above (See § 120.3 and § 120.4 of this subchapter). Also, U.S. exporters are not required to seek a commodity jurisdiction determination from State regarding any non-SME component or part (as defined in §§ 121.8(b) and (d) of this subchapter) that is not controlled under another category of the USML, unless doubt exists as to whether the item meets the three criteria above (See § 120.3 and § 120.4 of this subchapter). These commodity jurisdiction determinations will ensure compliance with this section and the criteria of Section 17(c) of the Export Administration Act of 1979. In determining whether the three criteria above have been met, consider whether the same item is common to both civil and military applications without modification of the item's form, fit, or function. Some examples of parts or components that are not common to both civil and military applications are tail hooks, rotodomes, and low observable rotor blades. “Standard equipment” is defined as a part or component manufactured in compliance with an established and published industry specification or an established and published government specification (e.g., AN, MS, NAS, or SAE). Parts and components that are manufactured and tested to established but unpublished civil aviation industry specifications and standards are also “standard equipment,” e.g., pumps, actuators, and generators. A part or component is not standard equipment if there are any performance, manufacturing or testing requirements beyond such specifications and standards. Simply testing a part or component to meet a military specification or standard for civil purposes does not in and of itself change the jurisdiction of such part or component. Integral is defined as a part or component that is installed in an aircraft. In determining whether a part or component may be considered as standard equipment and integral to a civil aircraft (e.g., latches, fasteners, grommets, and switches) it is important to carefully review all of the criteria noted above. For example, a part approved solely on a non-interference/provisions basis under a type certificate issued by the Federal Aviation Administration would not qualify. Similarly, unique application parts or components not integral to the aircraft would also not qualify.</P>
+          </NOTE>
+          <P>(i) Technical data (as defined in § 120.10) and defense services (as defined in § 120.9) directly related to the defense articles enumerated in paragraphs (a) through (h) of this category (see § 125.4 for exemptions), except for hot section technical data associated with commercial aircraft engines. Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.</P>
+          <HD SOURCE="HD1">Category IX—Military Training Equipment and Training</HD>
+          <P>(a) Training equipment specifically designed, modified, configured or adapted for military purposes, including but not limited to weapons system trainers, radar trainers, gunnery training devices, antisubmarine warfare trainers, target equipment, armament training units, pilot-less aircraft trainers, navigation trainers and human-rated centrifuges.</P>
+          <P>(b) Simulation devices for the items covered by this subchapter.</P>
+          <P>(c) Tooling and equipment specifically designed or modified for the production of articles controlled by this category.</P>
+          <P>(d) Components, parts, accessories, attachments, and associated equipment specifically designed, modified, configured, or adapted for the articles in paragraphs (a), (b) and (c) of this category.</P>
+          <P>(e) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (d) of this category.</P>
+          <P>(f) The following interpretations explain and amplify terms used in this category and elsewhere in this subchapter:</P>
+          <P>(1) The weapons systems trainers in paragraph (a) of this category include individual crew stations and system specific trainers;</P>
+          <P>(2) The articles in this category include any end item, components, accessory, part, firmware, software or system that has been designed or manufactured using technical data and defense services controlled by this category;</P>
+
+          <P>(3) The defense services and related technical data in paragraph (f) of this category include software and associated databases that can be used to simulate trainers, battle management, test scenarios/models, and weapons effects. In any instance when the military training transferred to a foreign person does not use articles controlled by the U.S. Munitions List, the training may nevertheless be a defense service that requires authorization in accordance with this subchapter. See e.g., § 120.9 and § 124.1 of this subchapter for additional information on military training.<PRTPAGE P="482"/>
+          </P>
+          <HD SOURCE="HD1">Category X—Protective Personnel Equipment and Shelters</HD>
+          <P>(a) Protective personnel equipment specifically designed, developed, configured, adapted, modified, or equipped for military applications. This includes but is not limited to:</P>
+          <P>(1) Body armor;</P>
+          <P>(2) Clothing to protect against or reduce detection by radar, infrared (IR) or other sensors at wavelengths greater than 900 nanometers, and the specially treated or formulated dyes, coatings, and fabrics used in its design, manufacture, and production;</P>
+          <P>(3) Anti-Gravity suits (G-suits);</P>
+          <P>(4) Pressure suits capable of operating at altitudes above 55,000 feet sea level;</P>
+          <P>(5) Atmosphere diving suits designed, developed, modified, configured, or adapted for use in rescue operations involving submarines controlled by this subchapter;</P>
+          <P>(6) Helmets specially designed, developed, modified, configured, or adapted to be compatible with military communication hardware or optical sights or slewing devices;</P>
+          <P>(7) Goggles, glasses, or visors designed to protect against lasers or thermal flashes discharged by an article subject to this subchapter.</P>
+          <P>(b) Permanent or transportable shelters specifically designed and modified to protect against the effect of articles covered by this subchapter as follows:</P>
+          <P>(1) Ballistic shock or impact;</P>
+          <P>(2) Nuclear, biological, or chemical contamination.</P>
+          <P>(c) Tooling and equipment specifically designed or modified for the production of articles controlled by this category.</P>
+          <P>(d) Components, parts, accessories, attachments, and associated equipment specifically designed, modified, configured, or adapted for use with the articles in paragraphs (a) through (c) of this category.</P>
+          <P>(e) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (d) of this category.</P>
+          <P>(f) The following interpretations explain and amplify the terms used in this category and throughout this subchapter: (1) The body armor covered by this category does not include Type 1, Type 2, Type 2a, or Type 3a as defined by the National Institute of Justice Classification;</P>
+          <P>(2) The articles in this category include any end item, components, accessory, attachment, part, firmware, software or system that has been designed or manufactured using technical data and defense services controlled by this category;</P>
+          <P>(3) Pressure suits in paragraph (a) (4) of this category include full and partial suits used to simulate normal atmospheric pressure conditions at high altitude.</P>
+          <HD SOURCE="HD1">Category XI—Military Electronics</HD>
+          <P>(a) Electronic equipment not included in Category XII of the U.S. Munitions List which is specifically designed, modified or configured for military application. This equipment includes but is not limited to:</P>
+          <P>* (1) Underwater sound equipment to include active and passive detection, identification, tracking, and weapons control equipment.</P>
+          <P>* (2) Underwater acoustic active and passive countermeasures and counter-countermeasures.</P>
+          <P>(3) Radar systems, with capabilities such as:</P>
+          <P>* (i) Search,</P>
+          <P>* (ii) Acquisition,</P>
+          <P>* (iii) Tracking,</P>
+          <P>* (iv) Moving target indication,</P>
+          <P>* (v) Imaging radar systems,</P>
+          <P>(vi) Any ground air traffic control radar which is specifically designed or modified for military application.</P>
+          <P>* (4) Electronic combat equipment, such as:</P>
+          <P>(i) Active and passive countermeasures,</P>
+          <P>(ii) Active and passive counter-countermeasures, and</P>
+          <P>(iii) Radios (including transceivers) specifically designed or modified to interfere with other communication devices or transmissions.</P>
+          <P>* (5) Command, control and communications systems to include radios (transceivers), navigation, and identification equipment.</P>
+          <P>(6) Computers specifically designed or developed for military application and any computer specifically modified for use with any defense article in any category of the U.S. Munitions List.</P>
+          <P>(7) Any experimental or developmental electronic equipment specifically designed or modified for military application or specifically designed or modified for use with a military system.</P>
+          <P>* (b) Electronic systems or equipment specifically designed, modified, or configured for intelligence, security, or military purposes for use in search, reconnaissance, collection, monitoring, direction-finding, display, analysis and production of information from the electromagnetic spectrum and electronic systems or equipment designed or modified to counteract electronic surveillance or monitoring. A system meeting this definition is controlled under this subchapter even in instances where any individual pieces of equipment constituting the system may be subject to the controls of another U.S. Government agency. Such systems or equipment described above include, but are not limited to, those:</P>
+
+          <P>(1) Designed or modified to use cryptographic techniques to generate the spreading code for spread spectrum or hopping code <PRTPAGE P="483"/>for frequency agility. This does not include fixed code techniques for spread spectrum.</P>
+          <P>(2) Designed or modified using burst techniques (e.g., time compression techniques) for intelligence, security or military purposes.</P>
+          <P>(3) Designed or modified for the purpose of information security to suppress the compromising emanations of information-bearing signals. This covers TEMPEST suppression technology and equipment meeting or designed to meet government TEMPEST standards. This definition is not intended to include equipment designed to meet Federal Communications Commission (FCC) commercial electro-magnetic interference standards or equipment designed for health and safety.</P>
+          <P>(c) Components, parts, accessories, attachments, and associated equipment specifically designed or modified for use with the equipment in paragraphs (a) and (b) of this category, except for such items as are in normal commercial use.</P>
+          <P>(d) Technical data (as defined in § 120.10) and defense services (as defined in § 120.9) directly related to the defense articles enumerated in paragraphs (a) through (c) of this category. (See § 125.4 for exemptions.) Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated as SME.</P>
+          <HD SOURCE="HD1">Category XII—Fire Control, Range Finder, Optical and Guidance and Control Equipment</HD>
+          <P>* (a) Fire control systems; gun and missile tracking and guidance systems; gun range, position, height finders, spotting instruments and laying equipment; aiming devices (electronic, optic, and acoustic); bomb sights, bombing computers, military television sighting and viewing units, and periscopes for the articles of this section.</P>
+          <P>* (b) Lasers specifically designed, modified or configured for military application including those used in military communication devices, target designators and range finders, target detection systems, and directed energy weapons.</P>
+
+          <P>* (c) Infrared focal plane array detectors specifically designed, modified, or configured for military use; image intensification and other night sighting equipment or systems specifically designed, modified or configured for military use; second generation and above military image intensification tubes (defined below) specifically designed, developed, modified, or configured for military use, and infrared, visible and ultraviolet devices specifically designed, developed, modified, or configured for military application. Military second and third generation image intensification tubes and military infrared focal plane arrays identified in this subparagraph are licensed by the Department of Commerce (ECCN 6A002A and 6A003A)) when part of a commercial system (<E T="03">i.e.,</E> those systems originally designed for commercial use). This does not include any military system comprised of non-military specification components. Replacement tubes or focal plane arrays identified in this paragraph being exported for commercial systems are subject to the controls of the ITAR.
+          </P>
+          <NOTE>
+            <HD SOURCE="HED">Note:</HD>
+            <P>
+              <E T="03">Special definition.</E> For purposes of this subparagraph, <E T="03">second and third generation image intensification tubes</E> are defined as having: A peak response within the 0.4 to 1.05 micron wavelength range and incorporating a microchannel plate for electron image amplification having a hole pitch (center-to-center spacing) of less than 25 microns and having either:</P>
+            <P>(a) An S-20, S-25 or multialkali photocathode; or</P>
+            <P>(b) A GaAs, GaInAs, or other compound semiconductor photocathode.</P>
+          </NOTE>
+          
+          <P>* (d) Inertial platforms and sensors for weapons or weapon systems; guidance, control and stabilization systems except for those systems covered in Category VIII; astro-compasses and star trackers and military accelerometers and gyros. For aircraft inertial reference systems and related components refer to Category VIII.</P>
+          <P>(e) Components, parts, accessories, attachments and associated equipment specifically designed or modified for the articles in paragraphs (a) through (d) of this category, except for such items as are in normal commercial use.</P>
+          <P>(f) Technical data (as defined in § 120.10) and defense services (as defined in § 120.9) directly related to the defense articles enumerated in paragraphs (a) through (e) of this category. (See § 125.4 for exemptions.) Technical data directly related to manufacture and production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated as SME.</P>
+          <HD SOURCE="HD1">Category XIII—Auxiliary Military Equipment</HD>
+          <P>(a) Cameras and specialized processing equipment therefor, photointerpretation, stereoscopic plotting, and photogrammetry equipment which are specifically designed, developed, modified, adapted, or configured for military purposes, and components specifically designed or modified therefor;</P>
+
+          <P>(b) Military Information Security Assurance Systems and equipment, cryptographic devices, software, and components specifically designed, developed, modified, adapted, or configured for military applications (including command, control and intelligence applications). This includes: (1) Military <PRTPAGE P="484"/>cryptographic (including key management) systems, equipment assemblies, modules, integrated circuits, components or software with the capability of maintaining secrecy or confidentiality of information or information systems, including equipment and software for tracking, telemetry and control (TT&amp;C) encryption and decryption;</P>
+          <P>(2) Military cryptographic (including key management) systems, equipment, assemblies, modules, integrated circuits, components of software which have the capability of generating spreading or hopping codes for spread spectrum systems or equipment;</P>
+          <P>(3) Military cryptanalytic systems, equipment, assemblies, modules, integrated circuits, components or software;</P>
+          <P>(4) Military systems, equipment, assemblies, modules, integrated circuits, components or software providing certified or certifiable multi-level security or user isolation exceeding Evaluation Assurance Level (EAL) 5 of the Security Assurance Evaluation Criteria and software to certify such systems, equipment or software;</P>
+          <P>(5) Ancillary equipment specifically designed, developed, modified, adapted, or configured for the articles in paragraphs (b)(1), (2), (3), and (4) of this category.</P>
+          <P>(c) Self-contained diving and underwater breathing apparatus as follows:</P>
+          <P>(1) Closed and semi-closed (rebreathing) apparatus;</P>
+          <P>(2) Specially designed components and parts for use in the conversion of open-circuit apparatus to military use; and,</P>
+          <P>(3) Articles exclusively designed for military use with self-contained diving and underwater swimming apparatus.</P>
+          <P>(d) Carbon/carbon billets and preforms not elsewhere controlled by this subchapter (e.g., Category IV) which are reinforced with continuous unidirectional tows, tapes, or woven cloths in three or more dimensional planes (e.g., 3D, 4D) specifically designed, developed, modified, configured or adapted for defense articles.</P>
+          <P>(e) Armor (e.g., organic, ceramic, metallic), and reactive armor and components, parts and accessories not elsewhere controlled by this subchapter which have been specifically designed, developed, modified, configured or adapted for a military application.</P>
+          <P>(f) Structural materials, including carbon/carbon and metal matrix composites, plate, forgings, castings, welding consumables and rolled and extruded shapes that have been specifically designed, developed, configured, modified or adapted for defense articles.</P>
+          <P>(g) Concealment and deception equipment specifically designed, developed, modified, configured or adapted for military application, including but not limited to special paints, decoys, smoke or obscuration equipment and simulators and components, parts and accessories specifically designed, developed, modified, configured or adapted therefor.</P>
+          <P>(h) Energy conversion devices for producing electrical energy from nuclear, thermal, or solar energy, or from chemical reaction that are specifically designed, developed, modified, configured or adapted for military application.</P>
+          <P>(i) Metal embrittling agents.</P>
+          <P>* (j) Hardware and equipment, which has been specifically designed or modified for military applications, that is associated with the measurement or modification of system signatures for detection of defense articles. This includes but is not limited to signature measurement equipment; reduction techniques and codes; signature materials and treatments; and signature control design methodology.</P>
+          <P>(k) Tooling and equipment specifically designed or modified for the production of articles controlled by this category.</P>
+          <P>(l) Technical data (as defined in § 120.10 of this subchapter), and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (k) of this category. (See also, § 123.20 of this subchapter.) Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designed SME.</P>
+          <P>(m) The following interpretations explain and amplify terms used in this category and elsewhere in this subchapter:</P>
+          <P>(1) Paragraph (d) of this category does not control carbon/carbon billets and preforms where reinforcement in the third dimension is limited to interlocking of adjacent layers only, and carbon/carbon 3D, 4D, etc. end items that have not been specifically designed or modified for military applications (e.g., brakes for commercial aircraft or high speed trains);</P>
+          <P>(2) Metal embrittlement agents in paragraph (i) of this category are non-lethal weapon substances that alter the crystal structure of metals within a short time span. Metal embrittling agents severely weaken metals by chemically changing their molecular structure. These agents are compounded in various substances to include adhesives, liquids, aerosols, foams and lubricants.</P>
+          <HD SOURCE="HD1">Category XIV—Toxicological Agents, Including Chemical Agents, Biological Agents, and Associated Equipment</HD>
+          <P>* (a) Chemical agents, to include:</P>
+          <P>(1) Nerve agents:</P>
+          <P>(i) O-Alkyl (equal to or less than C<E T="52">10</E>, including cycloalkyl) alkyl (Methyl, Ethyl, n-Propyl or Isopropyl)phosphonofluoridates, such as: Sarin (GB): O-Isopropyl methylphosphonofluoridate (CAS 107-44-8) (CWC Schedule 1A); and Soman (GD): O-<PRTPAGE P="485"/>Pinacolyl methylphosphonofluoridate (CAS 96-64-0) (CWC Schedule 1A);</P>
+          <P>(ii) O-Alkyl (equal to or less than C<E T="52">10</E>, including cycloalkyl) N,N-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)phosphoramidocyanidates, such as: Tabun (GA): O-Ethyl N, N-dimethylphosphoramidocyanidate (CAS 77-81-6) (CWC Schedule 1A);</P>
+          <P>(iii) O-Alkyl (H or equal to or less than C<E T="52">10</E>, including cycloalkyl) S-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl)phosphonothiolates and corresponding alkylated and protonated salts, such as: VX: O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate (CAS 50782-69-9) (CWC Schedule 1A);</P>
+          <P>(2) Amiton: O,O-Diethyl S-[2(diethylamino)ethyl] phosphorothiolate and corresponding alkylated or protonated salts (CAS 78-53-5) (CWC Schedule 2A);</P>
+          <P>(3) Vesicant agents:</P>
+          <P>(i) Sulfur mustards, such as: 2-Chloroethylchloromethylsulfide (CAS 2625-76-5) (CWC Schedule 1A); Bis(2-chloroethyl)sulfide (CAS 505-60-2) (CWC Schedule 1A); Bis(2-chloroethylthio)methane (CAS 63839-13-6) (CWC Schedule 1A); 1,2-bis (2-chloroethylthio)ethane (CAS 3563-36-8) (CWC Schedule 1A); 1,3-bis (2-chloroethylthio)-n-propane (CAS 63905-10-2) (CWC Schedule 1A); 1,4-bis (2-chloroethylthio)-n-butane (CWC Schedule 1A); 1,5-bis (2-chloroethylthio)-n-pentane (CWC Schedule 1A); Bis (2-chloroethylthiomethyl)ether (CWC Schedule 1A); Bis (2-chloroethylthioethyl)ether (CAS 63918-89-8) (CWC Schedule 1A);</P>
+          <P>(ii) Lewisites, such as: 2-chlorovinyldichloroarsine (CAS 541-25-3) (CWC Schedule 1A); Tris (2-chlorovinyl) arsine (CAS 40334-70-1) (CWC Schedule 1A); Bis (2-chlorovinyl) chloroarsine (CAS 40334-69-8) (CWC Schedule 1A);</P>
+          <P>(iii) Nitrogen mustards, such as: HN1: bis (2-chloroethyl) ethylamine (CAS 538-07-8) (CWC Schedule 1A); HN2: bis (2-chloroethyl) methylamine (CAS 51-75-2) (CWC Schedule 1A); HN3: tris (2-chloroethyl)amine (CAS 555-77-1) (CWC Schedule 1A);</P>
+          <P>(iv) Ethyldichloroarsine (ED);</P>
+          <P>(v) Methyldichloroarsine (MD);</P>
+          <P>(4) Incapacitating agents, such as:</P>
+          <P>(i) 3-Quinuclindinyl benzilate (BZ) (CAS 6581-06-2) (CWC Schedule 2A);</P>
+          <P>(ii) Diphenylchloroarsine (DA) (CAS 712-48-1);</P>
+          <P>(iii) Diphenylcyanoarsine (DC);</P>
+          <P>* (b) Biological agents and biologically derived substances specifically developed, configured, adapted, or modified for the purpose of increasing their capability to produce casualties in humans or livestock, degrade equipment or damage crops.</P>
+          <P>* (c) Chemical agent binary precursors and key precursors, as follows:</P>
+          <P>(1) Alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonyl difluorides, such as: DF: Methyl Phosphonyldifluoride (CAS 676-99-3) (CWC Schedule 1B); Methylphosphinyldifluoride;</P>
+          <P>(2) O-Alkyl (H or equal to or less than C<E T="52">10</E>, including cycloalkyl) O-2-dialkyl (methyl, ethyl, n-Propyl or isopropyl)aminoethyl alkyl (methyl, ethyl, N-propyl or isopropyl)phosphonite and corresponding alkylated and protonated salts, such as: QL: O-Ethyl-2-di-isopropylaminoethyl methylphosphonite (CAS 57856-11-8) (CWC Schedule 1B);</P>
+          <P>(3) Chlorosarin: O-Isopropyl methylphosphonochloridate (CAS 1445-76-7) (CWC Schedule 1B);</P>
+          <P>(4) Chlorosoman: O-Pinakolyl methylphosphonochloridate (CAS 7040-57-5) (CWC Schedule 1B);</P>
+          <P>(5) DC: Methlyphosphonyl dichloride (CAS 676-97-1) (CWC Schedule 2B); Methylphosphinyldichloride;</P>
+          <P>(d) Tear gases and riot control agents including:</P>
+          <P>(1) Adamsite (Diphenylamine chloroarsine or DM) (CAS 578-94-9);</P>
+          <P>(2) CA (Bromobenzyl cyanide) (CAS 5798-79-8);</P>
+          <P>(3) CN (Phenylacyl chloride or w-Chloroacetophenone) (CAS 532-27-4);</P>
+          <P>(4) CR (Dibenz-(b,f)-1,4-oxazephine) (CAS 257-07-8);</P>
+          <P>(5) CS (o-Chlorobenzylidenemalononitrile or o-Chlorobenzalmalononitrile) (CAS 2698-41-1);</P>
+          <P>(6) Dibromodimethyl ether (CAS 4497-29-4);</P>
+          <P>(7) Dichlorodimethyl ether (ClCi) (CAS 542-88-1);</P>
+          <P>(8) Ethyldibromoarsine (CAS 683-43-2);</P>
+          <P>(9) Bromo acetone;</P>
+          <P>(10) Bromo methylethylketone;</P>
+          <P>(11) Iodo acetone;</P>
+          <P>(12) Phenylcarbylamine chloride;</P>
+          <P>(13) Ethyl iodoacetate;</P>
+          <P>(e) Defoliants, as follows:</P>
+          <P>(1) Agent Orange (2,4,5-Trichlorophenoxyacetic acid mixed with 2,4-dichlorophenoxyacetic acid);</P>
+          <P>(2) LNF (Butyl 2-chloro-4-fluorophenoxyacetate)</P>
+          <P>* (f) Equipment and its components, parts, accessories, and attachments specifically designed or modified for military operations and compatibility with military equipment as follows:</P>
+          <P>(1) The dissemination, dispersion or testing of the chemical agents, biological agents, tear gases and riot control agents, and defoliants listed in paragraphs (a), (b), (d), and (e), respectively, of this category;</P>
+
+          <P>(2) The detection, identification, warning or monitoring of the chemical agents and biological agents listed in paragraph (a) and (b) of this category;<PRTPAGE P="486"/>
+          </P>
+          <P>(3) Sample collection and processing of the chemical agents and biological agents listed in paragraph (a) and (b) of this category;</P>
+          <P>(4) Individual protection against the chemical and biological agents listed in paragraphs (a) and (b) of this category.</P>
+          <P>(5) Collective protection against the chemical agents and biological agents listed in paragraph (a) and (b) of this category.</P>
+          <P>(6) Decontamination or remediation of the chemical agents and biological agents listed in paragraph (a) and (b) of this category.</P>
+          <P>(g) Antibodies, polynucleoides, biopolymers or biocatalysts specifically designed or modified for use with articles controlled in paragraph (f) of this category.</P>
+          <P>(h) Medical countermeasures, to include pre- and post-treatments, vaccines, antidotes and medical diagnostics, specifically designed or modified for use with the chemical agents listed in paragraph (a) of this category and vaccines with the sole purpose of protecting against biological agents identified in paragraph (b) of this category. Examples include: barrier creams specifically designed to be applied to skin and personal equipment to protect against vesicant agents controlled in paragraph (a) of this category; atropine auto injectors specifically designed to counter nerve agent poisoning.</P>
+          <P>(i) Modeling or simulation tools specifically designed or modified for chemical or biological weapons design, development or employment. The concept of modeling and simulation includes software covered by paragraph (m) of this category specifically designed to reveal susceptibility or vulnerability to biological agents or materials listed in paragraph (b) of this category.</P>
+          <P>(j) Test facilities specifically designed or modified for the certification and qualification of articles controlled in paragraph (f) of this category.</P>
+          <P>(k) Equipment, components, parts, accessories, and attachments, exclusive of incinerators (including those which have specially designed waste supply systems and special handling facilities), specifically designed or modified for destruction of the chemical agents in paragraph (a) or the biological agents in paragraph (b) of this category. This destruction equipment includes facilities specifically designed or modified for destruction operations.</P>
+          <P>(l) Tooling and equipment specifically designed or modified for the production of articles controlled by paragraph (f) of this category.</P>
+          <P>(m) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) related to the defense articles enumerated in paragraphs (a) through (l) of this category. (See § 125.4 of this subchapter for exemptions.) Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this Category that are designated as Significant Military Equipment (SME) shall itself be designated as SME.</P>
+          <P>(n) The following interpretations explain and amplify the terms used in this category and elsewhere in this subchapter.</P>
+          <P>(1) A chemical agent in category XIV(a) is a substance having military application, which by its ordinary and direct chemical action, produces a powerful physiological effect.</P>
+          <P>(2) The biological agents or biologically derived substances in paragraph (b) of this category are those agents and substances capable of producing casualties in humans or livestock, degrading equipment or damaging crops and which have been modified for the specific purpose of increasing such effects. Examples of such modifications include increasing resistance to UV radiation or improving dissemination characteristics. This does not include modifications made only for civil applications (e.g., medical or environmental use).</P>
+          <P>(3) The destruction equipment controlled by this category related to biological agents in paragraph (b) is that equipment specifically designed to destroy only the agents identified in paragraph (b) of this category.</P>
+          <P>(4)(i) The individual protection against the chemical and biological agents controlled by this category includes military protective clothing and masks, but not those items designed for domestic preparedness (e.g., civil defense). Domestic preparedness devices for individual protection that integrate components and parts identified in this subparagraph are licensed by the Department of Commerce when such components are:</P>
+          <P>(A) Integral to the device;</P>
+          <P>(B) inseparable from the device; and,</P>
+          <P>(C) incapable of replacement without compromising the effectiveness of the device.</P>
+          <P>(ii) Components and parts identified in this subparagraph exported for integration into domestic preparedness devices for individual protection are subject to the controls of the ITAR;</P>
+          <P>(5) Technical data and defense services in paragraph (l) include libraries, databases and algorithms specifically designed or modified for use with articles controlled in paragraph (f) of this category.</P>
+          <P>(6) The tooling and equipment covered by paragraph (l) of this category includes molds used to produce protective masks, over-boots, and gloves controlled by paragraph (f) and leak detection equipment specifically designed to test filters controlled by paragraph (f) of this category.</P>
+
+          <P>(7) The resulting product of the combination of any controlled or non-controlled substance compounded or mixed with any item controlled by this subchapter is also subject to the controls of this category.
+          </P>
+          <NOTE>
+            <PRTPAGE P="487"/>
+            <HD SOURCE="HED">Note 1:</HD>
+            <P>This Category does not control formulations containing 1% or less CN or CS or individually packaged tear gases or riot control agents for personal self-defense purposes.</P>
+          </NOTE>
+          <NOTE>
+            <HD SOURCE="HED">Note 2:</HD>
+            <P>Categories XIV(a) and (d) do not include the following:</P>
+            <P>(1) Cyanogen chloride;</P>
+            <P>(2) Hydrocyanic acid;</P>
+            <P>(3) Chlorine;</P>
+            <P>(4) Carbonyl chloride (Phosgene);</P>
+            <P>(5) Ethyl bromoacetate;</P>
+            <P>(6) Xylyl bromide;</P>
+            <P>(7) Benzyl bromide;</P>
+            <P>(8) Benzyl iodide;</P>
+            <P>(9) Chloro acetone;</P>
+            <P>(10) Chloropicrin (trichloronitromethane);</P>
+            <P>(11) Fluorine;</P>
+            <P>(12) Liquid pepper.</P>
+          </NOTE>
+          <NOTE>
+            <HD SOURCE="HED">Note 3:</HD>
+            <P>Chemical Abstract Service (CAS) registry numbers do not cover all the substances and mixtures controlled by this category. The numbers are provided as examples to assist the government agencies in the license review process and the exporter when completing their license application and export documentation.</P>
+          </NOTE>
+          <NOTE>
+            <HD SOURCE="HED">Note 4:</HD>
+            <P>With respect to U.S. obligations under the Chemical Weapons Convention (CWC), refer to Chemical Weapons Convention Regulations (CWCR) (15 CFR parts 710 through 722). As appropriate, the CWC schedule is provided to assist the exporter.</P>
+          </NOTE>
+          <NOTE>
+            <HD SOURCE="HED">Note 5:</HD>
+            <P>Pharmacological formulations containing nitrogen mustards and certain reference standards for these drugs are not considered to be chemical agents and are licensed by the Department of Commerce when:</P>
+            <P>(1) The drug is in the form of a final medical product; or</P>
+            <P>(2) The reference standard contains salts of HN2 [bis(2-chloroethyl) methylamine], the quantity to be shipped is 150 milligrams or less, and individual shipments do not exceed twelve per calendar year per end user.</P>
+            <P>Technical data for the production of HN1 [bis(2-chloroethyl)ethylamine]; HN2 [bis(2-chloroethyl)methylamine], HN3 [tris(2-chloroethyl)amine]; or salts of these, such as tris (2-chloroethyl)amine hydrochloride, remains controlled under this Category.</P>
+          </NOTE>
+          <HD SOURCE="HD1">Category XV—Spacecraft Systems and Associated Equipment</HD>
+
+          <P>* (a) Spacecraft, including communications satellites, remote sensing satellites, scientific satellites, research satellites, navigation satellites, experimental and multi-mission satellites.
+          </P>
+          <NOTE>
+            <HD SOURCE="HED">* Note to paragraph (<E T="01">a</E>):</HD>
+
+            <P>Commercial communications satellites, scientific satellites, research satellites and experimental satellites are designated as SME only when the equipment is intended for use by the armed forces of any foreign country.
+            </P>
+            <P>(b) Ground control stations for telemetry, tracking and control of spacecraft or satellites, or employing any of the cryptographic items controlled under category XIII of this subchapter.</P>
+            <P>(c) Global Positioning System (GPS) receiving equipment specifically designed, modified or configured for military use; or GPS receiving equipment with any of the following characteristics:</P>
+            <P>(1) Designed for encryption or decryption (e.g., Y-Code) of GPS precise positioning service (PPS) signals;</P>
+            <P>(2) Designed for producing navigation results above 60,000 feet altitude and at 1,000 knots velocity or greater;</P>
+            <P>(3) Specifically designed or modified for use with a null steering antenna or including a null steering antenna designed to reduce or avoid jamming signals;</P>
+            <P>(4) Designed or modified for use with unmanned air vehicle systems capable of delivering at least a 500 kg payload to a range of at least 300 km.</P>
+          </NOTE>
+          <NOTE>
+            <HD SOURCE="HED">Note:</HD>
+            <P>GPS receivers designed or modified for use with military unmanned air vehicle systems with less capability are considered to be specifically designed, modified or configured for military use and therefore covered under this paragraph (d)(4).)</P>
+          </NOTE>
+          <P>Any GPS equipment not meeting this definition is subject to the jurisdiction of the Department of Commerce (DOC). Manufacturers or exporters of equipment under DOC jurisdiction are advised that the U.S. Government does not assure the availability of the GPS P-Code for civil navigation. It is the policy of the Department of Defense (DOD) that GPS receivers using P-Code without clarification as to whether or not those receivers were designed or modified to use Y-Code will be presumed to be Y-Code capable and covered under this paragraph. The DOD policy further requires that a notice be attached to all P-Code receivers presented for export. The notice must state the following: “ADVISORY NOTICE: This receiver uses the GPS P-Code signal, which by U.S. policy, may be switched off without notice.”</P>
+          <P>(d) Radiation-hardened microelectronic circuits that meet or exceed all five of the following characteristics:</P>
+          <P>(1) A total dose of 5×10<SU>5</SU> Rads (Si);</P>
+          <P>(2) A dose rate upset threshold of 5×10<SU>8</SU> Rads (Si)/sec;</P>
+          <P>(3) A neutron dose of 1×10<SU>14</SU> n/cm<SU>2</SU> (1 MeV equivalent);</P>
+          <P>(4) A single event upset rate of 1×10<E T="51">−10</E> errors/bit-day or less, for the CREME96 geosynchronous orbit, Solar Minimum Environment;</P>
+          <P>(5) Single event latch-up free and having a dose rate latch-up threshold of 5×10<SU>8</SU> Rads (Si).</P>
+
+          <P>(e) All specifically designed or modified systems or subsystems, components, parts, accessories, attachments, and associated <PRTPAGE P="488"/>equipment for the articles in this category, including the articles identified in section 1516 of Public Law 105-261: satellite fuel, ground support equipment, test equipment, payload adapter or interface hardware, replacement parts, and non-embedded solid propellant orbit transfer engines (see also Categories IV and V in this section).</P>
+          <NOTE>
+            <HD SOURCE="HED">Note:</HD>
+            <P>This coverage by the U.S. Munitions List does not include the following unless specifically designed or modified for military application (see § 120.3 of this subchapter): (For controls on these items see the Export Administration Regulations, Commerce Control List (15 CFR Parts 730 through 799).)</P>
+          </NOTE>
+          <P>(1) Space qualified travelling wave tubes (also known as helix tubes or TWTs), microwave solid state amplifiers, microwave assemblies, and travelling wave tube amplifiers operating at frequencies equal to or less than 31GHz.</P>
+          <P>(2) Space qualified photovoltaic arrays having silicon cells or having single, dual, triple junction solar cells that have gallium arsenide as one of the junctions.</P>
+          <P>(3) Space qualified tape recorders.</P>
+          <P>(4) Atomic frequency standards that are not space qualified.</P>
+          <P>(5) Space qualified data recorders.</P>
+          <P>(6) Space qualified telecommunications systems, equipment and components not designed or modified for satellite uses.</P>
+          <P>(7) Technology required for the development or production of telecommunications equipment specifically designed for non-satellite uses.</P>
+          <P>(8) Space qualified focal plane arrays having more than 2048 elements per array and having a peak response in the wavelength range exceeding 300nm but not exceeding 900nm.</P>
+          <P>(9) Space qualified laser radar or Light Detection and Ranging (LIDAR) equipment.</P>
+
+          <P>(f) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the articles enumerated in paragraphs (a) through (e) of this category, as well as detailed design, development, manufacturing or production data for all spacecraft and specifically designed or modified components for all spacecraft systems. This paragraph includes all technical data, without exception, for all launch support activities (e.g., technical data provided to the launch provider on form, fit, function, mass, electrical, mechanical, dynamic, environmental, telemetry, safety, facility, launch pad access, and launch parameters, as well as interfaces for mating and parameters for launch.) (See § 124.1 for the requirements for technical assistance agreements before defense services may be furnished even when all the information relied upon by the U.S. person in performing the defense service is in the public domain or is otherwise exempt from the licensing requirements of this subchapter.) Technical data directly related to the manufacture or production of any article enumerated elsewhere in this category that is designated as Significant Military Equipment (SME) shall itself be designated SME. Further, technical data directly related to the manufacture or production of all spacecraft, notwithstanding the nature of the intended end use (e.g., even where the hardware is not SME), is designated SME.
+          </P>
+          <NOTE>
+            <HD SOURCE="HED">Note to paragraph (<E T="01">f</E>):</HD>
+            <P>The special export controls contained in § 124.15 of this subchapter are always required before a U.S. person may participate in a launch failure investigation or analysis and before the export of any article or defense service in this category for launch in, or by nationals of, a country that is not a member of the North Atlantic Treaty Organization or a major non-NATO ally of the United States. Such special export controls also may be imposed with respect to any destination as deemed appropriate in furtherance of the security and foreign policy of the United States.</P>
+          </NOTE>
+          <HD SOURCE="HD1">Category XVI—Nuclear Weapons, Design and Testing Related Items</HD>
+          <P>* (a) Any article, material, equipment, or device which is specifically designed or modified for use in the design, development, or fabrication of nuclear weapons or nuclear explosive devices. (See § 123.20 of this subchapter and Department of Commerce Export Administration Regulations, 15 CFR 742.3 and 744.2).</P>
+          <P>* (b) Any article, material, equipment, or device which is specifically designed or modified for use in the devising, carrying out, or evaluating of nuclear weapons tests or any other nuclear explosions (including for modeling or simulating the employment of nuclear weapons or the integrated operational use of nuclear weapons), except such items as are in normal commercial use for other purposes.</P>
+          <P>* (c) Nuclear radiation detection and measurement devices specifically designed or modified for military applications.</P>
+          <P>(d) All specifically designed or modified components and parts, accessories, attachments, and associated equipment for the articles in this category.</P>
+
+          <P>(e) Technical data (as defined in § 120.10 of this subchapter), and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (d) of this category. (See also, § 123.20 of this subchapter.) Technical data directly related to the manufacture or production of any defense articles enumerated elsewhere in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.<PRTPAGE P="489"/>
+          </P>
+          <HD SOURCE="HD1">Category XVII—Classified Articles, Technical Data and Defense Services Not Otherwise Enumerated</HD>
+          <P>(a) All articles, technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) relating thereto which are classified in the interests of national security and which are not otherwise enumerated in the U.S. Munitions List.</P>
+          <HD SOURCE="HD1">Category XVIII—Directed Energy Weapons</HD>
+          <P>* (a) Directed energy weapon systems specifically designed or modified for military applications (e.g., destruction, degradation or rendering mission-abort of a target). These include, but are not limited to:</P>
+          <P>(1) Laser systems, including continuous wave or pulsed laser systems, specifically designed or modified to cause blindness;</P>
+          <P>(2) Lasers of sufficient continuous wave or pulsed power to effect destruction similar to the manner of conventional ammunition;</P>
+          <P>(3) Particle beam systems;</P>
+          <P>(4) Particle accelerators that project a charged or neutral particle beam with destructive power;</P>
+          <P>(5) High power radio-frequency (RF) systems;</P>
+          <P>(6) High pulsed power or high average power radio frequency beam transmitters that produce fields sufficiently intense to disable electronic circuitry at distant targets;</P>
+          <P>(7) Prime power generation, energy storage, switching, power conditioning, thermal management or fuel-handling equipment;</P>
+          <P>(8) Target acquisition or tracking systems;</P>
+          <P>(9) Systems capable or assessing target damage, destruction or mission-abort;</P>
+          <P>(10) Beam-handling, propagation or pointing equipment;</P>
+          <P>(11) Equipment with rapid beam slew capability for rapid multiple target operations;</P>
+          <P>(12) Negative ion beam funneling equipment; and,</P>
+          <P>(13) Equipment for controlling and slewing a high-energy ion beam.</P>
+          <P>* (b) Equipment specifically designed or modified for the detection or identification of, or defense against, articles controlled in paragraph (a) of this category.</P>
+          <P>(c) Tooling and equipment specifically designed or modified for the production of defense articles controlled by this category.</P>
+          <P>(d) Test and evaluation equipment and test models specifically designed or modified for the defense articles controlled by this category. This includes, but is not limited to, diagnostic instrumentation and physical test models.</P>
+          <P>(e) Components, parts, accessories, attachments and associated equipment specifically designed or modified for the articles in paragraphs (a) through (d) of this category.</P>
+          <P>(f) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (e) of this category. Technical data directly related to the manufacture or production of any defense articles enumerated in this category that are designated as Significant Military Equipment (SME) shall itself be designated SME.</P>
+          <P>(g) The following interpretations explain and amplify terms used in this category and elsewhere in this subchapter:</P>
+          <P>(1) The components, parts, accessories, attachments and associated equipment include, but are not limited to adaptive optics and phase conjugators components, space-qualified accelerator components, targets and specifically designed target diagnostics, current injectors for negative hydrogen ion beams, and space-qualified foils for neutralizing negative hydrogen isotope beams.</P>
+          <P>(2) The particle beam systems in paragraph (a)(3) of this category include devices embodying particle beam and electromagnetic pulse technology and associated components and subassemblies (e.g., ion beam current injectors, particle accelerators for neutral or charged particles, beam handling and projection equipment, beam steering, fire control, and pointing equipment, test and diagnostic instruments, and targets) which are specifically designed or modified for directed energy weapon applications.</P>
+          <P>(3) The articles controlled in this category include any end item, component, accessory, attachment, part, firmware, software or system that has been designed or manufactured using technical data and defense services controlled by this category.</P>
+          <P>(4) The articles specifically designed or modified for military application controlled in this category include any articles specifically developed, configured, or adapted for military application.</P>
+          <HD SOURCE="HD1">Category XIX [Reserved]</HD>
+          <HD SOURCE="HD1">Category XX—Submersible Vessels, Oceanographic and Associated Equipment</HD>
+          <P>* (a) Submersible vessels, manned or unmanned, tethered or untethered, designed or modified for military purposes, or powered by nuclear propulsion plants.</P>
+          <P>* (b) Swimmer delivery vehicles designed or modified for military purposes.</P>
+          <P>(c) Equipment, components, parts, accessories, and attachments specifically designed or modified for any of the articles in paragraphs (a) and (b) of this category.</P>
+
+          <P>(d) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a) through (c) of this category. (See § 125.4 of this subchapter for exemptions.) Technical data directly related to the <PRTPAGE P="490"/>manufacture or production of any defense articles enumerated elsewhere in this Category that are designated as Significant Military Equipment (SME) shall itself be designated as SME.</P>
+          <HD SOURCE="HD1">Category XXI—Miscellaneous Articles</HD>
+          <P>(a) Any article not specifically enumerated in the other categories of the U.S. Munitions List which has substantial military applicability and which has been specifically designed, developed, configured, adapted, or modified for military purposes. The decision on whether any article may be included in this category shall be made by the Director, Office of Defense Trade Controls Policy.</P>
+          <P>(b) Technical data (as defined in § 120.10 of this subchapter) and defense services (as defined in § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraph (a) of this category.</P>
+        </EXTRACT>
+        <CITA>[58 FR 39287, July 22, 1993]</CITA>
+        <EDNOTE>
+          <HD SOURCE="HED">Editorial Note:</HD>
+          <P>For <E T="04">Federal Register</E> citations affecting § 121.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <E T="03">www.fdsys.gov</E>.</P>
+        </EDNOTE>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 121.2</SECTNO>
+        <SUBJECT>Interpretations of the U.S. Munitions List and the Missile Technology Control Regime Annex.</SUBJECT>
+        <P>The following interpretations (listed alphabetically) explain and amplify the terms used in § 121.1. These interpretations have the same force as if they were a part of the U.S. Munitions List (USML) category to which they refer. In addition, all the items listed in § 121.16 shall constitute all items on the United States Munitions List which are Missile Technology Control Regime Annex items in accordance with section 71(a) of the Arms Export Control Act.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 121.3</SECTNO>
+        <SUBJECT>Aircraft and related articles.</SUBJECT>
+        <P>In Category VIII, <E T="03">aircraft</E> means aircraft designed, modified, or equipped for a military purpose, including aircraft described as “demilitarized.” All aircraft bearing an original military designation are included in Category VIII. However, the following aircraft are not included so long as they have not been specifically equipped, re-equipped, or modified for military operations:</P>
+        <P>(a) Cargo aircraft bearing “C” designations and numbered C-45 through C-118 inclusive, C-121 through C-125 inclusive, and C-131, using reciprocating engines only.</P>
+        <P>(b) Trainer aircraft bearing “T” designations and using reciprocating engines or turboprop engines with less than 600 horsepower (s.h.p.)</P>
+        <P>(c) Utility aircraft bearing “U” designations and using reciprocating engines only.</P>
+        <P>(d) All liaison aircraft bearing an “L” designation.</P>
+        <P>(e) All observation aircraft bearing “O” designations and using reciprocating engines.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 121.4</SECTNO>
+        <RESERVED>[Reserved]</RESERVED>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 121.5</SECTNO>
+        <SUBJECT>Apparatus and devices under Category IV(c).</SUBJECT>
+        <P>Category IV includes but is not limited to the following: Fuzes and components specifically designed, modified or configured for items listed in that category, bomb racks and shackles, bomb shackle release units, bomb ejectors, torpedo tubes, torpedo and guided missile boosters, guidance systems equipment and parts, launching racks and projectors, pistols (exploders), ignitors, fuze arming devices, intervalometers, thermal batteries, hardened missile launching facilities, guided missile launchers and specialized handling equipment, including transporters, cranes and lifts designed to handle articles in paragraphs (a) and (b) of this category for preparation and launch from fixed and mobile sites. The equipment in this category includes robots, robot controllers and robot end-effectors specially designed or modified for military applications.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§§ 121.6-121.7</SECTNO>
+        <RESERVED>[Reserved]</RESERVED>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 121.8</SECTNO>
+        <SUBJECT>End-items, components, accessories, attachments, parts, firmware, software and systems.</SUBJECT>
+        <P>(a) An <E T="03">end-item</E> is an assembled article ready for its intended use. Only ammunition, fuel or another energy source is required to place it in an operating state.</P>
+        <P>(b) A <E T="03">component</E> is an item which is useful only when used in conjunction with an end-item. A major component includes any assembled element which forms a portion of an end-item without which the end-item is inoperable. (<E T="04">Example:</E> Airframes, tail sections, <PRTPAGE P="491"/>transmissions, tank treads, hulls, etc.) A minor component includes any assembled element of a major component.</P>
+        <P>(c) <E T="03">Accessories</E> and <E T="03">attachments</E> are associated equipment for any component, end-item or system, and which are not necessary for their operation, but which enhance their usefulness or effectiveness. (<E T="04">Examples:</E> Military riflescopes, special paints, etc.)</P>
+        <P>(d) A <E T="03">part</E> is any single unassembled element of a major or a minor component, accessory, or attachment which is not normally subject to disassembly without the destruction or the impairment of design use. (<E T="04">Examples:</E> Rivets, wire, bolts, etc.)</P>
+
+        <P>(e) Firmware and any related unique support tools (such as computers, linkers, editors, test case generators, diagnostic checkers, library of functions and system test diagnostics) specifically designed for equipment or systems covered under any category of the U.S. Munitions List are considered as part of the end-item or component. <E T="03">Firmware</E> includes but is not limited to circuits into which software has been programmed.</P>
+        <P>(f) <E T="03">Software</E> includes but is not limited to the system functional design, logic flow, algorithms, application programs, operating systems and support software for design, implementation, test, operation, diagnosis and repair. A person who intends to export software only should, unless it is specifically enumerated in § 121.1 (e.g., XIII(b)), apply for a technical data license pursuant to part 125 of this subchapter.</P>
+        <P>(g) A <E T="03">system</E> is a combination of end-items, components, parts, accessories, attachments, firmware or software, specifically designed, modified or adapted to operate together to perform a specialized military function.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 121.9</SECTNO>
+        <RESERVED>[Reserved]</RESERVED>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 121.10</SECTNO>
+        <SUBJECT>Forgings, castings and machined bodies.</SUBJECT>
+        <P>Articles on the U.S. Munitions List include articles in a partially completed state (such as forgings, castings, extrusions and machined bodies) which have reached a stage in manufacture where they are clearly identifiable as defense articles. If the end-item is an article on the U.S. Munitions List (including components, accessories, attachments and parts as defined in § 121.8), then the particular forging, casting, extrusion, machined body, etc., is considered a defense article subject to the controls of this subchapter, except for such items as are in normal commercial use.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 121.11</SECTNO>
+        <SUBJECT>Military demolition blocks and blasting caps.</SUBJECT>
+        <P>Military demolition blocks and blasting caps referred to in Category IV(a) do not include the following articles:</P>
+        <P>(a) Electric squibs.</P>
+        <P>(b) No. 6 and No. 8 blasting caps, including electric ones.</P>
+        <P>(c) Delay electric blasting caps (including No. 6 and No. 8 millisecond ones).</P>
+        <P>(d) Seismograph electric blasting caps (including SSS, Static-Master, Vibrocap SR, and SEISMO SR).</P>
+        <P>(e) Oil well perforating devices.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§§ 121.12-121.14</SECTNO>
+        <RESERVED>[Reserved]</RESERVED>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 121.15</SECTNO>
+        <SUBJECT>Vessels of war and special naval equipment.</SUBJECT>
+        <P>Vessels of war means vessels, waterborne or submersible, designed, modified or equipped for military purposes, including vessels described as developmental, “demilitarized” or decommissioned. Vessels of war in Category VI, whether developmental, “demilitarized” and/or decommissioned or not, include, but are not limited to, the following:</P>
+        <P>(a) Combatant vessels: (1) Warships (including nuclear-powered versions):</P>
+        <P>(i) Aircraft carriers.</P>
+        <P>(ii) Battleships.</P>
+        <P>(iii) Cruisers.</P>
+        <P>(iv) Destroyers.</P>
+        <P>(v) Frigates.</P>
+        <P>(vi) Submarines.</P>
+        <P>(2) Other Combatants:</P>
+        <P>(i) Patrol Combatants (e.g., including but not limited to PHM).</P>
+        <P>(ii) Amphibious Aircraft/Landing Craft Carriers.</P>
+        <P>(iii) Amphibious Materiel/Landing Craft Carriers.</P>
+        <P>(iv) Amphibious Command Ships.</P>
+        <P>(v) Mine Warfare Ships.</P>
+
+        <P>(vi) Coast Guard Cutters (e.g., including but not limited to: WHEC, WMEC).<PRTPAGE P="492"/>
+        </P>
+        <P>(b) Combatant Craft: (1) Patrol Craft (patrol craft described in § 121.1, Category VI, paragraph (b) are considered non-combatant):</P>
+        <P>(i) Coastal Patrol Combatants.</P>
+        <P>(ii) River, Roadstead Craft (including swimmer delivery craft).</P>
+        <P>(iii) Coast Guard Patrol Craft (e.g., including but not limited to WPB).</P>
+        <P>(2) Amphibious Warfare Craft:</P>
+        <P>(i) Landing Craft (e.g., including but not limited to LCAC).</P>
+        <P>(ii) Special Warfare Craft (e.g., including but not limited to: LSSC, MSSC, SDV, SWCL, SWCM).</P>
+        <P>(3) Mine Warfare Craft and Mine Countermeasures Craft (e.g., including but not limited to: MCT, MSB).</P>
+        <P>(c) Non-Combatant Auxiliary Vessels and Support Ships:</P>
+        <P>(1) Combat Logistics Support:</P>
+        <P>(i) Underway Replenishment Ships.</P>
+        <P>(ii) Surface Vessel and Submarine Tender/Repair Ships.</P>
+        <P>(2) Support Ships:</P>
+        <P>(i) Submarine Rescue Ships.</P>
+        <P>(ii) Other Auxiliaries (e.g., including but not limited to: AGDS, AGF, AGM, AGOR, AGOS, AH, AP, ARL, AVB, AVM, AVT).</P>
+        <P>(d) Non-Combatant Support, Service and Miscellaneous Vessels (e.g., including but not limited to: DSRV, DSV, NR, YRR).</P>
+        <CITA>[58 FR 60115, Nov. 15, 1993]</CITA>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 121.16</SECTNO>
+        <SUBJECT>Missile Technology Control Regime Annex.</SUBJECT>
+        <P>Some of the items on the Missile Technology Control Regime Annex are controlled by both the Department of Commerce on the Commodity Control List and by the Department of State on the United States Munitions List. To the extent an article is on the United States Munitions List, a reference appears in parentheses listing the U.S. Munitions List category in which it appears. The following items constitute all items on the Missile Technology Control Regime Annex which are covered by the U.S. Munitions List:</P>
+        <EXTRACT>
+          <HD SOURCE="HD1">Item 1—Category I</HD>
+          <P>Complete rocket systems (including ballistic missile systems, space launch vehicles, and sounding rockets (see § 121.1, Cat. IV(a) and (b))) and unmanned air vehicle systems (including cruise missile systems, see § 121.1, Cat. VIII (a), target drones and reconnaissance drones (see § 121.1, Cat. VIII (a))) capable of delivering at least a 500 kg payload to a range of at least 300 km.</P>
+          <HD SOURCE="HD1">Item 2—Category I</HD>
+          <P>Complete subsystems usable in the systems in Item 1 as follows:</P>
+          <P>(a) Individual rocket stages (see § 121.1, Cat. IV(h));</P>
+          <P>(b) Reentry vehicles (see § 121.1, Cat. IV(g)), and equipment designed or modified therefor, as follows, except as provided in Note (1) below for those designed for non-weapon payloads;</P>
+          <P>(1) Heat shields and components thereof fabricated of ceramic or ablative materials (see § 121.1, Cat. IV(f));</P>
+          <P>(2) Heat sinks and components thereof fabricated of light-weight, high heat capacity materials;</P>
+          <P>(3) Electronic equipment specially designed for reentry vehicles (see § 121.1, Cat. XI(a)(7));</P>
+          <P>(c) Solid or liquid propellant rocket engines, having a total impulse capacity of 1.1×10 N-sec (2.5×10 lb-sec) or greater (see § 121.1, Cat. IV, (h)).</P>
+          <P>(d) “Guidance sets” capable of achieving system accuracy of 3.33 percent or less of the range (e.g., a CEP of 1 j,. or less at a range of 300 km), except as provided in Note (1) below for those designed for missiles with a range under 300 km or manned aircraft (see § 121.1, Cat. XII(d));</P>
+          <P>(e) Thrust vector control sub-systems, except as provided in Note (1) below for those designed for rocket systems that do not exceed the range/payload capability of Item 1 (see § 121.1, Cat. IV);</P>
+          <P>(f) Warhead safing, arming, fuzing, and firing mechanisms, except as provided in Note (1) below for those designed for systems other than those in Item 1 (see § 121.1, Cat. IV(h)).</P>
+          <HD SOURCE="HD1">Notes to Item 2</HD>
+          <P>(1) The exceptions in (b), (d), (e), and (f) above may be treated as Category II if the subsystem is exported subject to end use statements and quantity limits appropriate for the excepted end use stated above.</P>
+          <P>(2) CEP (circle of equal probability) is a measure of accuracy, and defined as the radius of the circle centered at the target, at a specific range, in which 50 percent of the payloads impact.</P>
+
+          <P>(3) A “guidance set” integrates the process of measuring and computing a vehicle's position and velocity (<E T="03">i.e.</E>, navigation) with that of computing and sending commands to the vehicle's flight control systems to correct the trajectory.</P>
+          <P>(4) Examples of methods of achieving thrust vector control which are covered by (e) include:</P>
+          <P>(i) Flexible nozzle;</P>
+          <P>(ii) Fluid or secondary gas injection;<PRTPAGE P="493"/>
+          </P>
+          <P>(iii) Movable engine or nozzle; Deflection of exhaust gas stream (jet vanes or probes); or</P>
+          <P>(v) Use of thrust tabs.</P>
+          <HD SOURCE="HD1">Item 3—Category II</HD>
+          <P>Propulsion components and equipment usable in the systems in Item 1, as follows:</P>
+          <P>(a) Lightweight turbojet and turbofan engines (including) turbocompound engines) that are small and fuel efficient (see § 121.1, both Cat. IV(h) and VIII(b));</P>
+          <P>(b) Ramjet/Scramjet/pulse jet/combined cycle engines, including devices to regulate combustion, and specially designed components therefor (see § 121.1, both Cat. IV(h) and Cat. VIII(b));</P>
+          <P>(c) Rocket motor cases, “interior lining”, “insulation” and nozzles therefor (see § 121.1, Cat. IV(h) and Cat. V(c));</P>
+          <P>(d) Staging mechanisms, separation mechanisms, and interstages therefor (see § 121.1, Cat. IV(c) and (h));</P>
+          <P>(e) Liquid and slurry propellant (including oxidizers) control systems, and specially designed components therefor, designed or modified to operate in vibration environments of more than 100 g RMS between 20 Hz and,000 Hz (see § 121.1, Cat. IV(c) and (h));</P>
+          <P>(f) Hybrid rocket motors and specially designed components therefor (see § 121.1, Cat. IV(h)).</P>
+          <HD SOURCE="HD1">Notes to Item 3</HD>
+          <P>(1) Item 3(a) engines may be exported as part of a manned aircraft or in quantities appropriate for replacement parts for manned aircraft.</P>
+          <P>(2) In Item 3(C), “interior lining” suited for the bond interface between the solid propellant and the case or insulating liner is usually a liquid polymer based dispersion of refractory or insulating materials, e.g., carbon filled HTPB or other polymer with added curing agents to be sprayed or screeded over a case interior (see § 121.1, Cat. V(c)).</P>
+
+          <P>(3) In Item 3(c), “insulation” intended to be applied to the components of a rocket motor, <E T="03">i.e.</E>, the case, nozzle inlets, case closures, includes cured or semi-cured compounded rubber sheet stock containing an insulating or refractory material. It may also be incorporated as stress relief boots or flaps.</P>
+          <P>(4) The only servo valves and pumps covered in (e) above, are the following:</P>
+          <P>(i) Servo valves designed for flow rates of 24 liters per minute or greater, at an absolute pressure of 7,000 kPa (1,000 psi) or greater, that have an actuator response time of less than 100 msec;</P>
+          <P>(ii) Pumps, for liquid propellants, with shaft speeds equal to or greater than 8,000 RPM or with discharge pressures equal to or greater than 7,000 kPa (1,000 psi).</P>
+          <P>(5) Item 3(e) systems and components may be exports as part of a satellite.</P>
+          <HD SOURCE="HD1">Item 4—Category II</HD>
+          <P>Propellants and constituent chemicals for propellants as follows:</P>
+          <P>(a) Propulsive substances:</P>
+          <P>(1) Hydrazine with a concentration of more than 70 percent and its derivatives including monomethylhydrazine (MMH);</P>
+          <P>(2) Unsymmetric dimethylhydrazine (UDHM);</P>
+          <P>(3) Ammonium perchlorate;</P>
+
+          <P>(4) Sphercical aluminum powder with particle of uniform diameter of less than 500 × 10<E T="51">−6</E>M (500 microns) and an aluminum content of 97 percent or greater;</P>
+          <P>(5) Metal fuels in particle sizes less than 500 × 10<E T="51">−6</E>M (500 microns), whether spherical, atomized, spheriodal, flaked or ground, consisting of 97 percent or more of any of the following: zirconium, beryllium, boron, magnesium, zinc, and alloys of these;</P>
+          <P>(6) Nitroamines (cyclotetramethylenetetranitramene (HMX), cyclotrimethylenetrinitramine (RDX);</P>
+          <P>(7) Percholrates, chlorates or chromates mixed with powdered metals or other high energy fuel components;</P>
+          <P>(8) Carboranes, decaboranes, pentaboranes and derivatives thereof;</P>
+          <P>(9) Liquid oxidizers, as follows:</P>
+          <P>(i) Nitrogen dioxide/dinitrogen tetroxide;</P>
+          <P>(ii) Inhibited Red Fuming Nitric Acid (IRFNA);</P>
+          <P>(iii) Compounds composed of fluorine and one or more of other halogens, oxygen or nitrogen.</P>
+          <P>(b) Polymeric substances:</P>
+          <P>(1) Hydroxyterminated polybutadiene (HTPB);</P>
+          <P>(2) Glycidylazide polymer (GAP).</P>
+          <P>(c) Other high energy density propellants such a Boron Slurry having an energy density of 40 × 10 joules/kg or greater.</P>
+          <P>(d) Other propellants additives and agents:</P>
+          <P>(1) Bonding agents as follows:</P>
+          <P>(i) Tris (1(2methyl)aziridinyl phosphine oxide (MAPO);</P>
+          <P>(ii) Trimesol 1(2)ethyl)aziridine (HX868, BITA);</P>
+          <P>(iii) “Tepanol” (HX878), reaction product of tetraethylenepentamine, acrylonitrile and glycidol;</P>
+          <P>(iv) “Tepan” (HX879), reaction product of tet enepentamine and acrylonitrile;</P>
+          <P>(v) Polyfunctional aziridene amides with isophthalic, trimesic, isocyanuric, or trimethyladipic backbone also having a 2methyl or 2ethyl aziridine group (HX752, HX872 and HX877).</P>
+          <P>(2) Curing agents and catalysts as follows:</P>
+          <P>(i) Triphenyl bismuth (TPB);</P>
+          <P>(ii) Burning rate modifiers as follows:</P>
+          <P>(iii) Catocene;</P>
+          <P>(iv) Nbutylferrocene;</P>
+          <P>(v) Other ferrocene derivatives.<PRTPAGE P="494"/>
+          </P>
+          <P>(3) Nitrate esters and nitrato plasticizers as follows:</P>
+          <P>(i) 1,2,4butanetriol trinitrate (BTTN).</P>
+          <P>(4) Stabilizers as follows:</P>
+          <P>(i) Nmethylpnitroaniline.</P>
+          <HD SOURCE="HD1">Item 8—Category II</HD>
+          <P>Structural materials usable in the systems in Item 1, as follows:</P>
+          <P>(a) Composite structures, laminates, and manufactures thereof, including resin impregnated fibre prepregs and metal coated fibre preforms therefor, specially designed for use in the systems in Item 1 and the subsystems in Item 2 made either with organix matrix or metal matrix utilizing fibrous or filamentary reinforcements having a specific tensile strength greater than 7.62×10<SU>4</SU> m (3×10<SU>6</SU> inches) and a specific modules greater than 3.18×10<SU>6</SU> m (1.25×10<SU>8</SU> inches), (see § 121.1, Category IV (f), and Category XIII (d));</P>
+          <P>(b) Resaturated pyrolized (<E T="03">i.e.</E>, carbon-carbon) materials designed for rocket systems, (see § 121.1 Category IV (f));</P>
+          <P>(c) Fine grain recrystallized bulk graphites (with a bulk density of at least 1.72 g/cc measured at 15 degrees C), pyrolytic, or fibrous reinforced graphites useable for rocket nozzles and reentry vehicle nose tips (see § 121.1, Category IV (f) and Category XIII;</P>
+          <P>(d) Ceramic composites materials (dielectric constant less than 6 at frequencies from 100 Hz to 10,000 MHz) for use in missile radomes, and bulk machinable silicon-carbide reinforced unfired ceramic useable for nose tips (see § 121.1, Category IV (f));</P>
+          <HD SOURCE="HD1">Item 9—Category II</HD>
+          <P>Instrumentation, navigation and direction finding equipment and systems, and associated production and test equipment as follows; and specially designed components and software therefor:</P>
+          <P>(a) Integrated flight instrument systems, which include gyrostabilizers or automatic pilots and integration software therefor; designed or modified for use in the systems in Item 1 (See § 121.1, Category XII(d));</P>
+          <P>(b) Gyro-astro compasses and other devices which derive position or orientation by means of automatically tracking celestial bodies or satellites (see § 121.1, Category XV(d));</P>
+          <P>(c) Accelerometers with a threshold of 0.05 g or less, or a linearity error within 0.25 percent of full scale output, or both, which are designed for use in inertial navigation systems or in guidance systems of all types (see § 121.1, Category VIII(e) and Category XII (d));</P>
+          <P>(d) All types of gyros usable in the systems in Item 1, with a rated drift rate stability of less than 0.5 degree (1 sigma or rms) per hour in a 1 q environment (see § 121.1, Category VIII(e) and Category XII(d));</P>
+          <P>(e) Continuous output accelerometers or gyros of any type, specified to function at acceleration levels greater than 100 g (see § 121.1, Category XII(d));</P>
+          <P>(f) Inertial or other equipment using accelerometers described by subitems (c) and (e) above, and systems incorporating such equipment, and specially designed integration software therefor (see § 121.1, Category VIII (e) and Category XII(d));</P>
+          <HD SOURCE="HD1">Notes to Item 9</HD>
+          <P>(1) Items (a) through (f) may be exported as part of a manned aircraft or satellite or in quantities appropriate for replacement parts for manned aircraft.</P>
+          <P>(2) In subitem (d):</P>
+          <P>(i) Drift rate is defined as the time rate of output deviation from the desired output. It consists of random and systematic components and is expressed as an equivalent angular displacement per unit time with respect to inertial space.</P>
+          <P>(ii) Stability is defined as standard deviation (1 sigma) of the variation of a particular parameter from its calibrated value measured under stable temperature conditions. This can be expressed as a function of time.</P>
+          <HD SOURCE="HD1">Item 10—Category II</HD>
+          <P>Flight control systems and “technology” as follows; designed or modified for the systems in Item 1.</P>
+          <P>(a) Hydraulic, mechanical, electro-optical, or electro-mechanical flight control systems (including fly-by-wire systems), (see § 121.1, Category IV (h));</P>
+          <P>(b) Attitude control equipment, (see § 121.1, Category IV, (c) and (h));</P>
+          <P>(c) Design technology for integration of air vehicle fuselage, propulsion system and lifting control surfaces to optimize aerodynamic performance throughout the flight regime of an unmanned air vehicle, (see § 121.1, Category VIII (k));</P>
+          <P>(d) Design technology for integration of the flight control, guidance, and propulsion data into a flight management system for optimization of rocket system trajectory, (see § 121.1, Category IV (i)).</P>
+          <HD SOURCE="HD1">Note to Item 10</HD>
+          <P>Items (a) and (b) may be exported as part of a manned aircraft or satellite or in quantities appropriate for replacement parts for manned aircraft.</P>
+          <HD SOURCE="HD1">Item 11—Category II</HD>
+          <P>Avionics equipment, “technology” and components as follows; designed or modified for use in the systems in Item 1, and specially designed software therefor:</P>
+
+          <P>(a) Radar and laser radar systems, including altimeters (see § 121.1, Category XI(a)(3));<PRTPAGE P="495"/>
+          </P>
+          <P>(b) Passive sensors for determining bearings to specific electromagnetic sources (direction finding equipment) or terrain characteristics (see § 121.1, Category XI(b) and (d));</P>
+          <P>(c) Global Positioning System (GPS) or similar satellite receivers;</P>
+          <P>(1) Capable of providing navigation information under the following operational conditions:</P>
+          <P>(i) At speeds in excess of 515 m/sec (1,000 nautical miles/hours); and</P>
+          <P>(ii) At altitudes in excess of 18 km (60,000 feet), (see § 121.1, Category XV(d)(2); or</P>
+          <P>(2) Designed or modified for use with unmanned air vehicles covered by Item 1 (see § 121.1, Category XV(d)(4)).</P>
+          <P>(d) Electronic assemblies and components specifically designed for military use and operation at temperatures in excess of 125 degrees C, (see § 121.1, Category XI(a)(7)).</P>
+          <P>(e) Design technology for protection of avionics and electrical subsystems against electromagnetic pulse (EMP) and electromagnetic interference (EMI) hazards from external sources, as follows, (see § 121.1, Category XI (b)).</P>
+          <P>(1) Design technology for shielding systems;</P>
+          <P>(2) Design technology for the configuration of hardened electrical circuits and subsystems;</P>
+          <P>(3) Determination of hardening criteria for the above.</P>
+          <HD SOURCE="HD1">Notes to Item 11</HD>
+          <P>(1) Item 11 equipment may be exported as part of a manned aircraft or satellite or in quantities appropriate for replacement parts for manned aircraft.</P>
+          <P>(2) Examples of equipment included in this Item:</P>
+          <P>(i) Terrain contour mapping equipment;</P>
+          <P>(ii) Scene mapping and correlation (both digital and analog) equipment;</P>
+          <P>(iii) Doppler navigation radar equipment;</P>
+          <P>(iv) Passive interferometer equipment;</P>
+          <P>(v) Imaging sensor equipment (both active and passive);</P>
+          <P>(3) In subitem (a), laser radar systems embody specialized transmission, scanning, receiving and signal processing techniques for utilization of lasers for echo ranging, direction finding and discrimination of targets by location, radial speed and body reflection characteristics.</P>
+          <HD SOURCE="HD1">Item 12—Category II</HD>
+          <P>Launch support equipment, facilities and software for the systems in Item 1, as follows:</P>
+          <P>(a) Apparatus and devices designed or modified for the handling, control, activation and launching of the systems in Item 1, (see § 121.1, Category IV(c));</P>
+          <P>(b) Vehicles designed or modified for the transport, handling, control, activation and launching of the systems in Item 1, (see § 121.1, Category VII(d));</P>
+          <P>(c) Telemetering and telecontrol equipment usable for unmanned air vehicles or rocket systems, (see § 121.1, Category XI(a));</P>
+          <P>(d) Precision tracking systems:</P>
+          <P>(1) Tracking systems which use a translb nv installed on the rocket system or unmanned air vehicle in conjunction with either surface or airborne references or navigation satellite systems to provide real-time measurements of in-flight position and velocity, (see § 121.1, Category XI(a));</P>
+          <P>(2) Range instrumentation radars including associated optical/infrared trackers and the specially designed software therefor with all of the following capabilities (see § 121.1, Category XI(a)(3)):</P>
+          <P>(i) angular resolution better than 3 milli-radians (0.5 mils);</P>
+          <P>(ii) range of 30 km or greater with a range resolution better than 10 meters RMS;</P>
+          <P>(iii) velocity resolution better than 3 meters per second.</P>
+          <P>(3) Software which processes post-flight, recorded data, enabling determination of vehicle position throughout its flight path (see § 121.1, Category IV(i)).</P>
+          <HD SOURCE="HD1">Item 13—Category II</HD>
+          <P>Analog computers, digital computers, or digital differential analyzers designed or modified for use in the systems in Item 1 (see § 121.1, Category XI (a)(6), having either of the following characteristics:</P>
+          <P>(a) Rated for continuous operation at temperature from below minus 45 degrees C to above plus 55 degrees C; or</P>
+          <P>(b) Designed as ruggedized or “radiation hardened”.</P>
+          <HD SOURCE="HD1">Note to Item 13</HD>
+          <P>Item 13 equipment may be exported as part of a manned aircraft or satellite or in quantities appropriate for replacement parts for manned aircraft.</P>
+          <HD SOURCE="HD1">Item 14—Category II</HD>
+          <P>Analog-to-digital converters, usable in the system in Item 1, having either of the following characteristics:</P>
+          <P>(a) Designed to meet military specifications for ruggedized equipment (see § 121.1, Category XI(d)); or,</P>
+          <P>(b) Designed or modified for military use (see § 121.1, Category XI(d)); and being one of the following types:</P>
+          <P>(1) Analog-to-digital converter “microcircuits,” which are “radiation hardened” or have all of the following characteristics:</P>
+          <P>(i) Having a resolution of 8 bits or more;</P>
+          <P>(ii) Rated for operation in the temperature range from below minus 54 degrees C to above plus 125 degrees C; and</P>
+          <P>(iii) Hermetically sealed.<PRTPAGE P="496"/>
+          </P>
+          <P>(2) Electrical input type analog-to-digital converter printed circuit boards or modules, with all of the following characteristics:</P>
+          <P>(i) Having a resolution of 8 bits or more;</P>
+          <P>(ii) Rated for operation in the temperature range from below minus 45 degrees C to above plus 55 degrees C; and</P>
+          <P>(iii) Incorporated “microcircuits” listed in (1), above.</P>
+          <HD SOURCE="HD1">Item 16—Category II</HD>
+          <P>Specially designed software, or specially designed software with related specially designed hybrid (combined analog/digital) computers, for modeling, simulation, or design integration of the systems in Item 1 and Item 2 (see § 121.1, Category IV(i) and Category XI(a)(6)).</P>
+          <HD SOURCE="HD1">Note to Item 16</HD>
+          <P>The modelling includes in particular the aerodynamic and thermodynamic analysis of the system.</P>
+          <HD SOURCE="HD1">Item 17—Category II</HD>
+
+          <P>Materials, devices, and specially designed software for reduced observables such as radar reflectivity, ultraviolet/infrared signatures on acoustic signatures (<E T="03">i.e.</E>, stealth technology), for applications usable for the systems in Item 1 or Item 2 (see § 121.1, Category XIII (e) and (k)), for example:</P>
+          <P>(a) Structural material and coatings specially designed for reduced radar reflectivity;</P>
+          <P>(b) Coatings, including paints, specially designed for reduced or tailored reflectivity or emissivity in the microwave, infrared or ultraviolet spectra, except when specially used for thermal control of satellites.</P>
+          <P>(c) Specially designed software or databases for analysis of signature reduction.</P>
+          <P>(d) Specially designed radar cross section measurement systems (see § 121.1, Category XI(a)(3)).</P>
+          <HD SOURCE="HD1">Item 18—Category II</HD>
+          <P>Devices for use in protecting rocket systems and unmanned air vehicles against nuclear effects (e.g. Electromagnetic Pulse (EMP), X-rays, combined blast and thermal effects), and usable for the systems in Item 1, as follows (see § 121.1, Category IV (c) and (h)):</P>
+          <P>(a) “Radiation Hardened” “microcircuits” and detectors (see § 121.1, Category XI(c)(3) Note: This commodity has been formally proposed for movement to category XV(e)(2) in the near future).</P>
+          <P>(b) Radomes designed to withstand a combined thermal shock greater than 1000 cal/sq cm accompanied by a peak over pressure of greater than 50 kPa (7 pounds per square inch) (see § 121.1, Category IV(h)).</P>
+          <HD SOURCE="HD1">Note to Item 18(<E T="01">a</E>)</HD>
+          <P>A detector is defined as a mechanical, electrical, optical or chemical device that automatically identifies and records, or registers a stimulus such as an environmental change in pressure or temperature, an electrical or electromagnetic signal or radiation from a radioactive material. The following pages were removed from the final ITAR for replacement by DDTC's updated version § 6(l) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(l)), as amended. In accordance with this provision, the list of MTCR Annex items shall constitute all items on the U.S. Munitions List in § 121.16.</P>
+        </EXTRACT>
+        <CITA>[58 FR 39287, July 22, 1993, as amended at 71 FR 20539, Apr. 21, 2006]</CITA>
+      </SECTION>
+    </SUBJGRP>
+  </PART>
+</CFRGRANULE>
